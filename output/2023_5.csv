@@ -1,0 +1,104 @@
+Date,Description,Amount,AutoCategory,AccHolder,BankName,AccType
+2023-05-01,Payment to Chase card ending in 7345 05/01,-89.18,,joint,chase,checking
+2023-05-01,Autosave SavePerMonth 11385149626,-25.0,,nowrin,chase,checking
+2023-05-01,Autosave SavePerMonth 11384992274,-25.0,,sachin,chase,checking
+2023-05-01,Autosave SavePerMonth 11385149626,25.0,,nowrin,chase,savings
+2023-05-01,Autosave SavePerMonth 11384992274,25.0,,sachin,chase,savings
+2023-05-01,Payment Thank You-Mobile,89.18,,nowrin,chase,credit
+2023-05-02,Univ of Michigan UMich ePay 430230726       WEB ID: 1364199567,-1318.0,,joint,chase,checking
+2023-05-03,Zelle payment to Smit Kothari 17254520536,-1500.0,,joint,chase,checking
+2023-05-03,Zelle payment to Smit Kothari 17254509251,-500.0,,nowrin,chase,checking
+2023-05-03,Online Transfer to  SAV ...2267 transaction#: 16991532655,-250.0,,nowrin,chase,checking
+2023-05-03,Online Transfer from  CHK ...7138 transaction#: 16991532655,250.0,,nowrin,chase,savings
+2023-05-03,INTERNET PAYMENT - THANK YOU,465.45,Payments and Credits,sachin,discover,credit
+2023-05-04,Online Transfer to CHK ...7386 transaction#: 17264541636 05/04,-1350.0,,sachin,chase,checking
+2023-05-04,Online Transfer to CHK ...7386 transaction#: 17270209063 05/04,-1000.0,,nowrin,chase,savings
+2023-05-04,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-465.45,,joint,chase,checking
+2023-05-04,Online Transfer from SAV ...2267 transaction#: 17270209063,1000.0,,joint,chase,checking
+2023-05-04,Online Transfer from CHK ...5231 transaction#: 17264541636,1350.0,,joint,chase,checking
+2023-05-05,AUTOMATIC PAYMENT - THANK,1518.53,,joint,chase,credit
+2023-05-07,AMAZON PRIME*VU3202FU3 AMZN.COM/BILLWA6QY3GHUD3SF,-7.94,Merchandise,sachin,discover,credit
+2023-05-08,CHASE CREDIT CRD AUTOPAY                    PPD ID: 4760039224,-1518.53,,joint,chase,checking
+2023-05-11,AMTRAK MOBIL1310615107168,-80.0,Travel,joint,chase,credit
+2023-05-13,MCDONALD'S F12785,-23.02,Food & Drink,joint,chase,credit
+2023-05-13,MCDONALD'S F12785,-4.47,Food & Drink,joint,chase,credit
+2023-05-15,CARPENTERS BROTHERS HARDW,-52.05,Automotive,joint,chase,credit
+2023-05-15,DD DOORDASH PANERABRE,-24.01,Food & Drink,joint,chase,credit
+2023-05-15,IC* INSTACART*161,-20.46,Groceries,nowrin,chase,credit
+2023-05-15,Zipcar Trip MAY15,-20.14,Travel,joint,chase,credit
+2023-05-15,DD DOORDASH SHRIMPFLA,-16.68,Food & Drink,joint,chase,credit
+2023-05-15,Zelle payment to YEN-LEN 17363336240,-16.0,,joint,chase,checking
+2023-05-15,UBER   TRIP HELP.UBER.COM CA                 05/14,-11.69,,nowrin,chase,checking
+2023-05-15,Zipcar Extend MAY15,-5.04,Travel,joint,chase,credit
+2023-05-15,MARKET@WORK 2067379149,-1.79,Food & Drink,joint,chase,credit
+2023-05-15,INTEREST PAYMENT,0.01,,nowrin,chase,savings
+2023-05-16,PATEL BROTHERS OF ANN ARB,-88.99,Groceries,joint,chase,credit
+2023-05-16,SPEEDWAY 08708 ANN ARBOR,-11.95,Gas,joint,chase,credit
+2023-05-16,PANDA EXPRESS #1124,-9.86,Food & Drink,joint,chase,credit
+2023-05-16,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-16,GREG MAT WWW.GREGMAT.C CA                    05/16,-5.0,,sachin,chase,checking
+2023-05-16,University of Mi P2P PAYMNT Prithwish Ghosh WEB ID: 9000071008,200.0,,nowrin,chase,checking
+2023-05-17,Zelle payment to ZHENHUA 17380857166,-190.0,,joint,chase,checking
+2023-05-17,DD DOORDASH ITALIANPE,-36.18,Food & Drink,joint,chase,credit
+2023-05-17,AMZN Mktp US*501UB90E3,-27.97,Shopping,joint,chase,credit
+2023-05-17,Amazon.com*KY0Z49FG3,-21.09,Shopping,joint,chase,credit
+2023-05-17,Zipcar Trip MAY17,-17.1,Travel,joint,chase,credit
+2023-05-17,KROGER 605,-12.29,Groceries,joint,chase,credit
+2023-05-17,UBER   TRIP,-11.97,Travel,joint,chase,credit
+2023-05-17,DOORDASH DASHPASS,-9.99,Food & Drink,joint,chase,credit
+2023-05-17,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-17,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-18,Zipcar Extend MAY17,-11.39,Travel,joint,chase,credit
+2023-05-19,KROGER 605,-20.73,Groceries,joint,chase,credit
+2023-05-19,OM MARKET,-11.98,Groceries,joint,chase,credit
+2023-05-19,Zipcar Trip MAY19,-11.4,Travel,joint,chase,credit
+2023-05-20,AMZN Mktp US*EF9GM5G93,-21.19,Shopping,joint,chase,credit
+2023-05-20,Amazon Prime*CP3C49BK3,-7.94,Bills & Utilities,joint,chase,credit
+2023-05-20,Zipcar Extend MAY19,-5.7,Travel,joint,chase,credit
+2023-05-20,Hulu 877-8244858 CA,-1.99,Bills & Utilities,joint,chase,credit
+2023-05-21,KROGER 605,-60.85,Groceries,joint,chase,credit
+2023-05-22,TMOBILE*AUTO PAY 800-937-8997 WA             05/20,-166.83,,nowrin,chase,checking
+2023-05-22,WALMART.COM 800-966-6546 AR                  05/19,-40.26,,nowrin,chase,checking
+2023-05-22,AMZN Mktp US*OK2P80LG3,-33.6,Shopping,joint,chase,credit
+2023-05-22,KROGER 605,-19.11,Groceries,joint,chase,credit
+2023-05-22,DD DOORDASH NAMASTEFL,-17.68,Food & Drink,joint,chase,credit
+2023-05-22,SPEEDWAY 08708 ANN ARBOR,-15.94,Gas,joint,chase,credit
+2023-05-22,Zipcar Trip MAY22,-10.07,Travel,joint,chase,credit
+2023-05-22,MARKET@WORK 2067379149,-5.68,Food & Drink,joint,chase,credit
+2023-05-22,Zelle payment to ZHENHUA 17405030447,-3.0,,joint,chase,checking
+2023-05-22,AMAZON PRIME AMZN.COM/BILLWA6UGOOMP8N6E,7.94,Payments and Credits,sachin,discover,credit
+2023-05-22,AMZN Mktp US,21.19,Shopping,joint,chase,credit
+2023-05-23,Univ of Michigan UMich ePay 430248150       WEB ID: 1364199567,-163.69,,joint,chase,checking
+2023-05-23,MICHIGAN FLYER  L.L.C.,-50.0,Travel,joint,chase,credit
+2023-05-24,AMZN Mktp US*RZ0LM4UO3,-17.99,Shopping,joint,chase,credit
+2023-05-24,KROGER 605,-8.99,Groceries,joint,chase,credit
+2023-05-25,LinkedIn Pre 8331585536,-39.99,Bills & Utilities,nowrin,chase,credit
+2023-05-25,SQ *BLANK SLATE CREAMERY,-19.25,Food & Drink,joint,chase,credit
+2023-05-25,DD DOORDASH TASTEOFIN,-17.76,Food & Drink,joint,chase,credit
+2023-05-25,GOOGLE *Google Storage,-1.99,Bills & Utilities,joint,chase,credit
+2023-05-26,MARKET@WORK 2067379149,-1.49,Food & Drink,joint,chase,credit
+2023-05-26,BLFD Main        Single                     PPD ID: 1261656249,580.0,,nowrin,chase,checking
+2023-05-27,ARGO CANOE LIVERY,-30.0,Shopping,joint,chase,credit
+2023-05-27,KROGER 605,-15.7,Groceries,joint,chase,credit
+2023-05-28,Zipcar Trip MAY28,-29.15,Travel,joint,chase,credit
+2023-05-28,IC* INSTACART*161,-17.27,Groceries,nowrin,chase,credit
+2023-05-28,DD DOORDASH NAMASTEFL,-16.68,Food & Drink,joint,chase,credit
+2023-05-28,WILLOW TV,-9.99,Shopping,joint,chase,credit
+2023-05-29,STUBHUB  INC.,-810.95,Entertainment,joint,chase,credit
+2023-05-29,LYFT   *RIDE SAT 1PM,-9.99,Travel,joint,chase,credit
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17477606709 05/30,-1000.0,,nowrin,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17477611275 05/30,-500.0,,nowrin,chase,savings
+2023-05-30,Payment to Chase card ending in 6611 05/30,-342.78,,joint,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17481575099 05/30,-250.0,,nowrin,chase,savings
+2023-05-30,Zelle payment to Ruchika 17466779879,-48.0,,joint,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17481576343 05/30,-30.0,,sachin,chase,checking
+2023-05-30,Online Transfer from CHK ...5231 transaction#: 17481576343,30.0,,joint,chase,checking
+2023-05-30,Online Transfer from SAV ...2267 transaction#: 17481575099,250.0,,joint,chase,checking
+2023-05-30,Payment Thank You - Web,342.78,,joint,chase,credit
+2023-05-30,Online Transfer from SAV ...2267 transaction#: 17477611275,500.0,,joint,chase,checking
+2023-05-30,Online Transfer from CHK ...7138 transaction#: 17477606709,1000.0,,joint,chase,checking
+2023-05-31,Univ of Michigan UMich ePay 430252060       WEB ID: 1364199567,-1508.69,,joint,chase,checking
+2023-05-31,WPY*One World Lantern Fes,-33.95,Entertainment,joint,chase,credit
+2023-05-31,WPY*One World Lantern Fes,-33.95,Entertainment,joint,chase,credit
+2023-05-31,TST* Frita Batidos - Detr,-10.6,Food & Drink,joint,chase,credit
+2023-05-31,MARKET@WORK 2067379149,-1.39,Food & Drink,joint,chase,credit

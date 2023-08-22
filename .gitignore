@@ -1,0 +1,9 @@
+# Ignore VS Code configuration and settings
+.vscode/
+
+# Ignore Python's __pycache__ directories
+__pycache__/
+
+india/
+
+data/
