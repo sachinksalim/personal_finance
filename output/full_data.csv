@@ -1,0 +1,1364 @@
+Date,Description,Amount,AutoCategory,AccHolder,BankName,AccType
+2022-08-23,DEPOSIT  ID NUMBER 769345,25.0,,sachin,chase,checking
+2022-08-23,DEPOSIT  ID NUMBER 769346,25.0,,sachin,chase,savings
+2022-08-23,DEPOSIT  ID NUMBER 769347,25.0,,nowrin,chase,checking
+2022-08-23,DEPOSIT  ID NUMBER 769348,25.0,,nowrin,chase,savings
+2022-08-31,ATM Deposit 530 S State St Ann Arbor Mi,150.0,,nowrin,pnc,checking
+2022-08-31,ATM Deposit 530 S State St Ann Arbor Mi,200.0,,sachin,pnc,checking
+2022-09-01,POS Purchase CVS/Pharmacy # Ann Arbor Mi Machine/Debit Card deductions,-1.49,,nowrin,pnc,checking
+2022-09-06,POS Purchase Wal-Mart #5472 Saline Mi,-87.0,,nowrin,pnc,checking
+2022-09-06,9132 Debit Card Purchase Panera Bread #601105 P,-25.2,,sachin,pnc,checking
+2022-09-06,9132 Debit Card Purchase Lyft Lyft.Com Ca,-16.99,,sachin,pnc,checking
+2022-09-06,8810 Debit Card Purchase Sq *Coco Fresh totaling $201.32. Tea & J,-5.72,,nowrin,pnc,checking
+2022-09-06,9132 Debit Card Purchase McDonald's,-5.3,,sachin,pnc,checking
+2022-09-06,Zel To Nowrin Mohamed,-1.0,,sachin,pnc,checking
+2022-09-06,Zel To Sachin Salim,-1.0,,nowrin,pnc,checking
+2022-09-06,Zel From Nowrin Mohamed,1.0,,sachin,pnc,checking
+2022-09-06,Zel From Sachin Salim,1.0,,nowrin,pnc,checking
+2022-09-07,Zel To Sachin Salim,-55.0,,nowrin,pnc,checking
+2022-09-07,9132 Debit Card Purchase Burger 1 Ann Arbor Mi,-20.97,,sachin,pnc,checking
+2022-09-07,POS Purchase Om Market Ann Arbor Mi,-14.46,,sachin,pnc,checking
+2022-09-07,POS Purchase Kroger #605 26 Ann Arbor Mi,-9.38,,sachin,pnc,checking
+2022-09-07,Zel From Nowrin Mohamed,55.0,,sachin,pnc,checking
+2022-09-07,ATM Deposit 2101 Bonisteel Ann Arbor Mi,980.0,,nowrin,pnc,checking
+2022-09-07,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,sachin,pnc,checking
+2022-09-08,9132 Debit Card Purchase Walmart.Com Aa,-156.88,,sachin,pnc,checking
+2022-09-09,8810 Debit Card Purchase Douglas J * Douglas J,-32.4,,nowrin,pnc,checking
+2022-09-09,9132 Debit Card Purchase CVS/Pharmacy #03584,-8.47,,sachin,pnc,checking
+2022-09-12,8810 Debit Card Purchase JCPenney 0819 Ann Arb,-126.11,,nowrin,pnc,checking
+2022-09-12,9132 Debit Card Purchase Amzn Mktp US*1F0NJ9Ff2,-52.91,,sachin,pnc,checking
+2022-09-12,8810 Debit Card Purchase JCPenney 0819,-37.09,,nowrin,pnc,checking
+2022-09-12,POS Purchase Om Market Ann Arbor Mi,-22.84,,sachin,pnc,checking
+2022-09-12,9132 Debit Card Purchase McDonald's F11520,-14.5,,sachin,pnc,checking
+2022-09-12,POS Purchase Kroger #605 26 Ann Arbor Mi,-10.13,,sachin,pnc,checking
+2022-09-12,Zel From Sanjana Jismon,2.17,,sachin,pnc,checking
+2022-09-13,8810 Debit Card Purchase Panda Express #1124,-13.41,,nowrin,pnc,checking
+2022-09-13,8810 Debit Card Purchase Panda Express,-11.45,,nowrin,pnc,checking
+2022-09-14,8810 Debit Card Purchase Burger 1 Ann Arbor Mi,-20.0,,nowrin,pnc,checking
+2022-09-15,Zel To Sai Subrahmanya,-127.84,,nowrin,pnc,checking
+2022-09-15,POS Purchase Om Market Ann Arbor Mi,-18.35,,nowrin,pnc,checking
+2022-09-16,WITHDRAWAL 09/16,-0.02,,sachin,chase,checking
+2022-09-19,8810 Debit Card Purchase Cardamomrestaurant,-25.44,,nowrin,pnc,checking
+2022-09-19,8810 Debit Card Purchase The Salvation Army 27,-13.74,,nowrin,pnc,checking
+2022-09-19,POS Purchase Kroger #605 26 Ann Arbor Mi,-9.58,,nowrin,pnc,checking
+2022-09-19,DTE Energy       800477474                  WEB ID: 0000420792,-9.04,,sachin,chase,checking
+2022-09-19,Web Pmt- 800477474 Dte Energy,-9.04,,nowrin,pnc,checking
+2022-09-19,POS Purchase Kroger #605 26 Ann Arbor Mi,-6.35,,nowrin,pnc,checking
+2022-09-19,Debit Card Credit JCPenney 0819 Ann Arbor Mi,37.09,,nowrin,pnc,checking
+2022-09-19,Debit Card Credit JCPenney 0819 Ann Arbor Mi,99.62,,nowrin,pnc,checking
+2022-09-20,9132 Debit Card Purchase,-286.19,,sachin,pnc,checking
+2022-09-20,POS Purchase Om Market Ann Arbor Mi,-18.23,,nowrin,pnc,checking
+2022-09-20,8810 Debit Card Purchase Burger 1 Ann Arbor Mi,-17.15,,nowrin,pnc,checking
+2022-09-20,POS Purchase Kroger #605 26 Ann Arbor Mi,-5.95,,sachin,pnc,checking
+2022-09-21,Direct Payment - XXXXX0666,-65.0,,sachin,pnc,checking
+2022-09-21,9132 Debit Card Purchase Amzn Mktp US*1U8Rz9451,-12.56,,sachin,pnc,checking
+2022-09-22,9132 Debit Card Purchase Tmobile*Prepaid Web,-78.4,,sachin,pnc,checking
+2022-09-26,Zel To Sachin Salim,-428.0,,nowrin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Detroit Zoological Soc,-46.0,,nowrin,pnc,checking
+2022-09-26,"9132 Recurring Debit Card Zipcar, Inc.",-37.1,,sachin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Applebees 773565177354,-28.58,,nowrin,pnc,checking
+2022-09-26,"9132 Debit Card Purchase Michigan Flyer, L.L.C.",-24.0,,sachin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Charminar Express,-21.19,,nowrin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Tst* Alley Bar - Ann A,-18.02,,nowrin,pnc,checking
+2022-09-26,9132 Debit Card Purchase Tst* No Thai- Plymouth,-12.72,,sachin,pnc,checking
+2022-09-26,9132 Debit Card Purchase Uber Help.Uber.C Ca,-8.9,,sachin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Burger 1 Ann Arbor Mi,-8.58,,nowrin,pnc,checking
+2022-09-26,9132 Debit Card Purchase Tst* No Thai- Plymouth,-5.3,,sachin,pnc,checking
+2022-09-26,8810 Debit Card Purchase Charminar Express,-5.29,,nowrin,pnc,checking
+2022-09-26,9132 Debit Card Purchase Uber *Trip Help.Uber.C,-0.63,,sachin,pnc,checking
+2022-09-26,International POS Fee Vis 0924 Nl,-0.02,,sachin,pnc,checking
+2022-09-26,Zel From Nowrin Mohamed,428.0,,sachin,pnc,checking
+2022-09-26,ATM Deposit 2101 Bonisteel Ann Arbor Mi,960.0,,sachin,pnc,checking
+2022-09-26,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,nowrin,pnc,checking
+2022-09-26,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,nowrin,pnc,checking
+2022-09-27,9132 Debit Card Purchase Amzn Mktp US*1U0Fw5Dh0,-354.04,,sachin,pnc,checking
+2022-09-27,9132 Debit Card Purchase Amazon.Com*1U6Sg02Q1 A,-74.19,,sachin,pnc,checking
+2022-09-29,9132 Debit Card Purchase Zipcar Trip Sep29,-82.15,,sachin,pnc,checking
+2022-09-29,POS Purchase Shell Service Bridgeport Mi,-24.73,,nowrin,pnc,checking
+2022-09-29,9132 Debit Card Purchase Snack* Ahmos North Cam,-9.53,,sachin,pnc,checking
+2022-09-29,9132 Debit Card Purchase Snack* Ahmos North Cam,-9.53,,sachin,pnc,checking
+2022-09-30,9132 Debit Card Purchase Zipcar Extend Sep29,-45.2,,sachin,pnc,checking
+2022-09-30,8810 Debit Card Purchase Sq *Harless + Hugh Cof,-14.5,,nowrin,pnc,checking
+2022-09-30,8810 Debit Card Purchase A2 Pci Parking 88 Ramp,-3.6,,nowrin,pnc,checking
+2022-09-30,Zel From Nowrin Mohamed,7.41,,sachin,pnc,checking
+2022-09-30,Debit Card Credit Zipcar Trip Sep29 757-6872808 MA,24.73,,sachin,pnc,checking
+2022-09-30,Zel From Nowrin Mohamed,695.0,,sachin,pnc,checking
+2022-10-03,8810 Debit Card Purchase Cnk*Cinemark.Com 1097,-117.95,,nowrin,pnc,checking
+2022-10-03,8810 Debit Card Purchase Tst* Palio - Ann Arbor,-35.94,,nowrin,pnc,checking
+2022-10-03,8810 Debit Card Purchase Wendy's 3150,-17.99,,nowrin,pnc,checking
+2022-10-03,9132 Debit Card Purchase Amzn Mktp US*1483M4Xd0,-7.41,,sachin,pnc,checking
+2022-10-03,9132 Debit Card Purchase Rave 1097 Ypsilanti M,-6.1,,sachin,pnc,checking
+2022-10-03,8810 Debit Card Purchase Blue Market At Pierpon,-2.98,,nowrin,pnc,checking
+2022-10-03,Zel From Karishma Anandan,33.7,,nowrin,pnc,checking
+2022-10-03,Zel From Shajil Mannil,33.7,,nowrin,pnc,checking
+2022-10-04,9132 Debit Card Purchase Cardamomrestaurant,-28.62,,sachin,pnc,checking
+2022-10-05,9132 Debit Card Purchase Amazon.Com*144C599O1 A,-5.81,,sachin,pnc,checking
+2022-10-06,POS Purchase Om Market Ann Arbor Mi,-10.53,,nowrin,pnc,checking
+2022-10-06,POS Purchase Kroger #605 26 Ann Arbor Mi,-1.99,,sachin,pnc,checking
+2022-10-07,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,193.61,,nowrin,chase,checking
+2022-10-11,8810 Debit Card Purchase,-21.73,,nowrin,pnc,checking
+2022-10-11,POS Purchase Om Market Ann Arbor Mi,-19.98,,sachin,pnc,checking
+2022-10-11,8810 Debit Card Purchase Panda Express #1124,-13.57,,nowrin,pnc,checking
+2022-10-12,9132 Debit Card Purchase Burger 1 Ann,-20.0,,sachin,pnc,checking
+2022-10-13,8810 Debit Card Purchase DD Doordash Machine/Debit Card deductions Angelos totaling $347.56.,-18.02,,nowrin,pnc,checking
+2022-10-13,8810 Debit Card Purchase Snack* Ahmos North Cam,-13.23,,nowrin,pnc,checking
+2022-10-13,8810 Debit Card Purchase Apple.Com/Bill There were 21 other Banking,-12.71,,nowrin,pnc,checking
+2022-10-14,8810 Debit Card Purchase Cardamomrestaurant,-37.1,,nowrin,pnc,checking
+2022-10-14,9132 Debit Card Purchase Blue Market At,-6.99,,sachin,pnc,checking
+2022-10-14,Zel From Shrikant Arvavasu,1.0,,nowrin,pnc,checking
+2022-10-17,POS Purchase Burlington Sto Westland Mi,-192.85,,sachin,pnc,checking
+2022-10-17,Zel To Sachin Salim,-100.0,,nowrin,pnc,checking
+2022-10-17,9132 Debit Card Purchase Sq *Ihub Mobile Phone,-65.75,,sachin,pnc,checking
+2022-10-17,9132 Debit Card Purchase Zipcar Trip Oct16 totaling $300.87.,-46.64,,sachin,pnc,checking
+2022-10-17,9132 Debit Card Purchase Zipcar Trip Oct16,-46.64,,sachin,pnc,checking
+2022-10-17,POS Purchase BP#6444624Brew Ann Arbor Mi,-27.55,,sachin,pnc,checking
+2022-10-17,8810 Debit Card Purchase Panera Bread #601105 P,-10.91,,nowrin,pnc,checking
+2022-10-17,8810 Debit Card Purchase Panera Bread #601105 P,-2.85,,nowrin,pnc,checking
+2022-10-17,Zel From Shrikant Arvavasu,11.37,,nowrin,pnc,checking
+2022-10-17,Zel From Shrikant Arvavasu,21.0,,sachin,pnc,checking
+2022-10-17,Zel From Vishwa Tiwari,21.0,,sachin,pnc,checking
+2022-10-17,Zel From Shajil Mannil,21.0,,sachin,pnc,checking
+2022-10-17,Debit Card Credit Zipcar Trip Oct16 175-7687280 MA,46.64,,sachin,pnc,checking
+2022-10-17,Zel From Nowrin Mohamed,100.0,,sachin,pnc,checking
+2022-10-18,9132 Debit Card Purchase Zipcar Late Return,-58.83,,sachin,pnc,checking
+2022-10-18,POS Purchase Om Market Ann Arbor Mi,-23.63,,nowrin,pnc,checking
+2022-10-18,POS Purchase Kroger #605 26 Ann Arbor Mi,-2.99,,nowrin,pnc,checking
+2022-10-18,POS Purchase Kroger #605 26 Ann Arbor Mi,-0.89,,nowrin,pnc,checking
+2022-10-19,Debit Card Credit Zipcar Trip Oct16 175-7687280 MA,27.55,,sachin,pnc,checking
+2022-10-19,ATM Deposit 2101 Bonisteel Ann Arbor Mi,601.0,,sachin,pnc,checking
+2022-10-21,Direct Payment - XXXXX0666 Comcast 8529102 2998668,-55.0,,sachin,pnc,checking
+2022-10-21,8810 Debit Card Purchase Cardamomrestaurant,-26.5,,nowrin,pnc,checking
+2022-10-21,8810 Debit Card Purchase Blue Market At Pierpon,-5.0,,nowrin,pnc,checking
+2022-10-21,POS Purchase Target Store T Ann Arbor Mi,-4.98,,sachin,pnc,checking
+2022-10-21,8810 Debit Card Purchase Blue Market At Pierpon,-3.5,,nowrin,pnc,checking
+2022-10-21,POS Purchase Target Store T Ann Arbor Mi,-1.99,,sachin,pnc,checking
+2022-10-21,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,196.77,,nowrin,chase,checking
+2022-10-24,9132 Debit Card Purchase Fireside Cafe Ann Arb,-11.99,,sachin,pnc,checking
+2022-10-24,9132 Debit Card Purchase Fireside Cafe Ann Arb,-2.49,,sachin,pnc,checking
+2022-10-24,8810 Debit Card Purchase Blue Market At Pierpon,-1.49,,nowrin,pnc,checking
+2022-10-26,8810 Debit Card Purchase DD Doordash Burgerkin,-14.72,,nowrin,pnc,checking
+2022-10-27,POS Purchase CVS/Pharmacy # Ann Arbor Mi,-10.38,,sachin,pnc,checking
+2022-10-28,8810 Debit Card Purchase DD Doordash Burgerkin,-14.07,,nowrin,pnc,checking
+2022-10-31,Zel To Sachin Salim,-695.0,,nowrin,pnc,checking
+2022-10-31,8810 Debit Card Purchase Tmobile*Prepaid Web,-78.4,,nowrin,pnc,checking
+2022-10-31,9132 Debit Card Purchase Mi Union Ticket Office,-40.0,,sachin,pnc,checking
+2022-10-31,POS Purchase Kroger #605 Ann Arbor Mi,-24.76,,nowrin,pnc,checking
+2022-10-31,POS Purchase Om Market Ann Arbor Mi,-20.46,,sachin,pnc,checking
+2022-10-31,8810 Debit Card Purchase Fireside Cafe Ann Arb,-18.58,,nowrin,pnc,checking
+2022-10-31,POS Purchase Om Market Ann Arbor Mi,-17.74,,nowrin,pnc,checking
+2022-10-31,8810 Debit Card Purchase Blue Market Union,-2.98,,nowrin,pnc,checking
+2022-10-31,Zel From Nowrin Mohamed,695.0,,sachin,pnc,checking
+2022-11-01,Web Pmt- Umich Epay Univ Of Michigan,-190.69,,sachin,pnc,checking
+2022-11-01,Univ of Michigan UMich ePay 429984326       WEB ID: 1364199567,-190.69,,nowrin,chase,checking
+2022-11-03,8810 Debit Card Purchase Aroma Ann Arbor,-31.78,,nowrin,pnc,checking
+2022-11-03,9132 Debit Card Purchase www.cvs.com 800- 74672,-12.7,,sachin,pnc,checking
+2022-11-03,8810 Debit Card Purchase Fireside Cafe Ann Arb,-11.57,,nowrin,pnc,checking
+2022-11-03,8810 Debit Card Purchase CVS/Pharmacy #08006,-1.49,,nowrin,pnc,checking
+2022-11-04,POS Purchase Target Store T Ann Arbor Mi,-3.19,,sachin,pnc,checking
+2022-11-04,Debit Card Credit Walmart.Com 800-9666546,156.88,,sachin,pnc,checking
+2022-11-04,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,259.96,,nowrin,chase,checking
+2022-11-07,Zelle payment to Nowrin Mohamed USA JPM999i80aa8,-200.0,,nowrin,chase,checking
+2022-11-07,8810 Debit Card Purchase Cardamomrestaurant,-32.33,,nowrin,pnc,checking
+2022-11-07,9132 Debit Card Purchase Fireside Cafe Ann Arb,-6.59,,sachin,pnc,checking
+2022-11-07,9132 Debit Card Purchase Mujo Cafe Ann,-2.25,,sachin,pnc,checking
+2022-11-07,Zelle payment to Nowrin Mohamed USA JPM999i8090b,-1.0,,nowrin,chase,checking
+2022-11-07,Zel From Nowrin Mohamed,1.0,,nowrin,pnc,checking
+2022-11-07,Zel From Nowrin Mohamed,200.0,,nowrin,pnc,checking
+2022-11-08,POS Purchase Om Market Ann Arbor Mi,-25.26,,nowrin,pnc,checking
+2022-11-09,Web Pmt- 800477474 Dte Energy,-34.95,,nowrin,pnc,checking
+2022-11-09,DTE Energy       800477474                  WEB ID: 0000420792,-34.94,,sachin,chase,checking
+2022-11-09,ODP TRANSFER TO CHECKING  000000888385231,-19.0,,sachin,chase,savings
+2022-11-09,8810 Debit Card Purchase Fireside Cafe Ann Arb,-9.08,,nowrin,pnc,checking
+2022-11-09,8810 Debit Card Purchase,-1.25,,nowrin,pnc,checking
+2022-11-09,ODP TRANSFER FROM SAVINGS 000003956901756,19.0,,sachin,chase,checking
+2022-11-10,Zelle payment to Nowrin Mohamed USA JPM999idji7h,-200.0,,nowrin,chase,checking
+2022-11-10,Web Pmt- Transfer Chasbk Ck Webxfr 5904440627,-35.0,,sachin,pnc,checking
+2022-11-10,Zel From Nowrin Mohamed,200.0,,nowrin,pnc,checking
+2022-11-14,8810 Debit Card Purchase DD Doordash totaling $807.45. Madrasmas,-45.46,,nowrin,pnc,checking
+2022-11-14,Zel To Kamal Rudra,-36.0,,sachin,pnc,checking
+2022-11-14,8810 Debit Card Purchase Fireside Cafe Ann Arb,-11.97,,nowrin,pnc,checking
+2022-11-14,8810 Debit Card Purchase Fireside Cafe Ann,-8.59,,nowrin,pnc,checking
+2022-11-14,9132 Debit Card Purchase Mujo Cafe Ann Arbor M,-2.5,,sachin,pnc,checking
+2022-11-14,9132 Debit Card Purchase Kensington Court,-2.0,,sachin,pnc,checking
+2022-11-14,Debit Card Credit Supportpdffiller.Com 855-7501663 MA,1.25,,nowrin,pnc,checking
+2022-11-14,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,sachin,pnc,checking
+2022-11-14,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,nowrin,pnc,checking
+2022-11-15,8810 Debit Card Purchase Namaste Flavours Arbor,-28.6,,nowrin,pnc,checking
+2022-11-15,8810 Debit Card Purchase Grubhubmadrasmasala,-16.95,,nowrin,pnc,checking
+2022-11-15,MONTHLY SERVICE FEE,-12.0,,sachin,chase,checking
+2022-11-15,MONTHLY SERVICE FEE,-5.0,,sachin,chase,savings
+2022-11-15,PNCBK CK WEBXFR  P2P        SACHIN . SALIM  WEB ID: 1770527921,35.0,,sachin,chase,checking
+2022-11-16,9132 Debit Card Purchase 1995 Great Clips At Pl,-20.0,,sachin,pnc,checking
+2022-11-16,MONTHLY SERVICE FEE,-12.0,,nowrin,chase,checking
+2022-11-16,MONTHLY SERVICE FEE,-5.0,,nowrin,chase,savings
+2022-11-18,8810 Debit Card Purchase Fireside Cafe Ann Arb,-9.08,,nowrin,pnc,checking
+2022-11-18,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,304.48,,nowrin,chase,checking
+2022-11-21,Direct Payment - XXXXX0666 Comcast 8529102 0240707,-55.0,,sachin,pnc,checking
+2022-11-21,8810 Debit Card Purchase Cardamomrestaurant,-26.5,,nowrin,pnc,checking
+2022-11-21,8810 Debit Card Purchase Fireside Cafe Ann Arb,-21.98,,nowrin,pnc,checking
+2022-11-21,POS Purchase Kroger #605 Ann Arbor Mi,-20.06,,nowrin,pnc,checking
+2022-11-21,8810 Debit Card Purchase Burger 1 Ann Arbor Mi,-15.96,,nowrin,pnc,checking
+2022-11-21,POS Purchase Kroger #605 26 Ann Arbor Mi,-2.85,,nowrin,pnc,checking
+2022-11-22,8810 Debit Card Purchase DD Doordash CVS,-14.55,,nowrin,pnc,checking
+2022-11-22,8810 Recurring Debit Card Doordash Dashpass,-4.99,,nowrin,pnc,checking
+2022-11-25,9132 Debit Card Purchase Zipcar Trip Nov26,-93.27,,sachin,pnc,checking
+2022-11-25,8810 Debit Card Purchase Domino's 1100 Ann Arb,-18.63,,nowrin,pnc,checking
+2022-11-25,POS Purchase Om Market Ann Arbor Mi,-13.85,,nowrin,pnc,checking
+2022-11-25,POS Purchase Kroger #605 26 Ann Arbor Mi,-10.58,,nowrin,pnc,checking
+2022-11-28,Zel To Nowrin Mohamed,-1000.0,,sachin,pnc,checking
+2022-11-28,POS Purchase Eddie Bauer 76 Auburn Hills Mi,-174.89,,nowrin,pnc,checking
+2022-11-28,8810 Debit Card Purchase adidas 6295 Auburn Hil,-79.5,,nowrin,pnc,checking
+2022-11-28,POS Purchase Steve Madden 5 Auburn Hills Mi,-44.49,,nowrin,pnc,checking
+2022-11-28,POS Purchase Burlington Sto Auburn Hills Mi,-39.2,,nowrin,pnc,checking
+2022-11-28,8810 Debit Card Purchase Grubhubnamasteflavour,-35.0,,nowrin,pnc,checking
+2022-11-28,8810 Debit Card Purchase The Himalayan Flames,-31.8,,nowrin,pnc,checking
+2022-11-28,Zel To Preet Baxi,-28.0,,sachin,pnc,checking
+2022-11-28,8810 Debit Card Purchase Burger King #26677,-21.81,,nowrin,pnc,checking
+2022-11-28,Zel To Sai Subrahmanya,-20.85,,nowrin,pnc,checking
+2022-11-28,8810 Debit Card Purchase Tst* Pizza House Foh G,-19.94,,nowrin,pnc,checking
+2022-11-28,8810 Debit Card Purchase Panera Bread #601105 K,-16.09,,nowrin,pnc,checking
+2022-11-28,Zel From Sachin Salim,1000.0,,nowrin,pnc,checking
+2022-11-29,Web Pmt- Umich Epay Univ Of Michigan 430010764,-190.69,,sachin,pnc,checking
+2022-11-29,Univ of Michigan UMich ePay 430010766       WEB ID: 1364199567,-190.69,,nowrin,chase,checking
+2022-11-29,Zelle payment to Sachin JPM999j2lgwe,-150.0,,nowrin,chase,checking
+2022-11-29,8810 Debit Card Purchase Lawdepot 877-509- 4398,-35.0,,nowrin,pnc,checking
+2022-11-29,KROGER #605 2641 PLYMO ANN ARBOR MI  057912  11/29,-12.93,,nowrin,chase,checking
+2022-11-29,International POS Fee Vis 1128 CD,-1.05,,nowrin,pnc,checking
+2022-11-29,Zel From Nowrin Mohamed,150.0,,sachin,pnc,checking
+2022-11-30,8810 Debit Card Purchase Paypal *Shein,-62.09,,nowrin,pnc,checking
+2022-12-01,ATM CASH DEPOSIT 12/01 3500 PLYMOUTH RD ANN ARBOR MI,40.0,,nowrin,chase,checking
+2022-12-01,ATM CASH DEPOSIT 12/01 3500 PLYMOUTH RD ANN ARBOR MI,160.0,,nowrin,chase,checking
+2022-12-02,BURGER 1 ANN ARBOR MI                        12/02,-20.0,,nowrin,chase,checking
+2022-12-02,Zel From Shrikant Arvavasu,15.15,,nowrin,pnc,checking
+2022-12-02,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,142.62,,nowrin,chase,checking
+2022-12-02,ATM Deposit 2101 Bonisteel Ann Arbor Mi,980.0,,sachin,pnc,checking
+2022-12-02,ATM Deposit 2101 Bonisteel Ann Arbor Mi,980.0,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Tmobile*Prepaid Web,-78.4,,nowrin,pnc,checking
+2022-12-05,Web Pmt- 800477474 Dte Energy,-35.32,,sachin,pnc,checking
+2022-12-05,Web Pmt- 800477474 Dte Energy,-35.31,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Hm.Com 855-,-27.9,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Om Market Ann Arbor M,-20.79,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Om Market Ann Arbor M,-14.49,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Tst* No Thai- Plymouth,-12.72,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Tst* No Thai- Plymouth,-11.66,,nowrin,pnc,checking
+2022-12-05,8810 Debit Card Purchase Tst* No Thai- Plymouth,-2.12,,nowrin,pnc,checking
+2022-12-06,8810 Debit Card Purchase Grubhubangelosonthesi,-29.85,,nowrin,pnc,checking
+2022-12-06,8810 Debit Card Purchase Grubhubburgerking,-10.27,,nowrin,pnc,checking
+2022-12-07,8810 Debit Card Purchase DD Doordash Dashmart,-13.1,,nowrin,pnc,checking
+2022-12-08,8810 Debit Card Purchase Grubhubmadrasmasala,-32.79,,nowrin,pnc,checking
+2022-12-09,8810 Debit Card Purchase,-23.32,,nowrin,pnc,checking
+2022-12-09,9132 Debit Card Purchase Google *Colab,-9.99,,sachin,pnc,checking
+2022-12-09,8810 Debit Card Purchase Mujo Cafe Ann Arbor M,-4.5,,nowrin,pnc,checking
+2022-12-12,"9132 Debit Card Purchase Spirit Airl totaling $1,782.56. 4870329565",-327.18,,sachin,pnc,checking
+2022-12-12,8810 Debit Card Purchase Grubhubnamasteflavour,-21.19,,nowrin,pnc,checking
+2022-12-12,8810 Debit Card Purchase Grubhubangelosonthesi,-20.63,,nowrin,pnc,checking
+2022-12-12,8810 Debit Card Purchase Panera Bread #601105 K,-18.63,,nowrin,pnc,checking
+2022-12-12,8810 Debit Card Purchase DD Doordash Burgerkin,-18.33,,nowrin,pnc,checking
+2022-12-12,8810 Debit Card Purchase Fireside Cafe Ann,-9.78,,nowrin,pnc,checking
+2022-12-12,8810 Debit Card Purchase Fireside Cafe Ann Arb,-8.0,,nowrin,pnc,checking
+2022-12-12,9132 Debit Card Purchase Mujo Cafe Ann,-4.25,,sachin,pnc,checking
+2022-12-12,PNC Purchase Payback Award EFFECTIVE 12-10-22,1.61,,nowrin,pnc,checking
+2022-12-12,ATM Deposit 2101 Bonisteel Ann Arbor Mi,980.0,,sachin,pnc,checking
+2022-12-13,8810 Debit Card Purchase Grubhubnamasteflavour,-42.64,,nowrin,pnc,checking
+2022-12-13,8810 Debit Card Purchase DD Doordash Burger1,-36.44,,nowrin,pnc,checking
+2022-12-13,8810 Debit Card Purchase DD Doordash Angelos,-16.49,,nowrin,pnc,checking
+2022-12-13,9132 Debit Card Purchase Google *Colab,-9.99,,sachin,pnc,checking
+2022-12-14,MONTHLY SERVICE FEE,-12.0,,sachin,chase,checking
+2022-12-14,MONTHLY SERVICE FEE,-1.0,,sachin,chase,savings
+2022-12-15,8810 Debit Card Purchase Amtrak .Com 3470725086,-110.0,,nowrin,pnc,checking
+2022-12-15,8810 Debit Card Purchase Grubhubaromaindiancui,-36.71,,nowrin,pnc,checking
+2022-12-15,MONTHLY SERVICE FEE,-12.0,,nowrin,chase,checking
+2022-12-15,MONTHLY SERVICE FEE,-5.0,,nowrin,chase,savings
+2022-12-16,Web Pmt- Transfer Chasbk Ck Webxfr 6112491637,-100.0,,sachin,pnc,checking
+2022-12-16,Web Pmt- 800477474 Dte Energy,-63.0,,sachin,pnc,checking
+2022-12-16,Web Pmt- 800477474 Dte Energy,-62.53,,nowrin,pnc,checking
+2022-12-16,U-M CU ANN ARBOR Transfer                   PPD ID: 9272476543,300.0,,nowrin,chase,checking
+2022-12-19,9132 Debit Card Purchase American Air0017876971,-232.6,,sachin,pnc,checking
+2022-12-19,8810 Debit Card Purchase American Air0017877002,-232.6,,nowrin,pnc,checking
+2022-12-19,Zelle payment to Nowrin Mohamed USA JPM999jte2l1,-200.0,,nowrin,chase,checking
+2022-12-19,POS Purchase Patel Brothers Ann Arbor Mi,-81.46,,sachin,pnc,checking
+2022-12-19,9132 Debit Card Purchase Tst* Circa 1919 Llc,-36.04,,sachin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Cardamomrestaurant,-26.5,,nowrin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Goodwill Ind - Ypsilan,-25.82,,nowrin,pnc,checking
+2022-12-19,8810 Debit Card Purchase DD Doordash Burgerkin,-25.74,,nowrin,pnc,checking
+2022-12-19,Zel To Vishnupriya Ramani,-19.3,,nowrin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Grubhubaromaindiancui,-15.25,,nowrin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Tropical Smoothie Cafe,-14.61,,nowrin,pnc,checking
+2022-12-19,9132 Debit Card Purchase Uber Help.Uber.C Ca,-13.96,,sachin,pnc,checking
+2022-12-19,9132 Debit Card Purchase Goodwill Ind - Ypsilan,-13.34,,sachin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Starbucks 70921,-12.61,,nowrin,pnc,checking
+2022-12-19,8810 Debit Card Purchase Apple.Com/Bill,-0.99,,nowrin,pnc,checking
+2022-12-19,Debit Card Credit Studentuniverse 800-2729676 MA,10.0,,sachin,pnc,checking
+2022-12-19,Debit Card Credit Studentuniverse 800-2729676 MA,10.0,,nowrin,pnc,checking
+2022-12-19,Zel From Nowrin Mohamed,200.0,,nowrin,pnc,checking
+2022-12-20,POS Purchase Kroger #605 Ann Arbor Mi,-20.51,,sachin,pnc,checking
+2022-12-20,PNCBK CK WEBXFR  P2P        SACHIN . SALIM  WEB ID: 1770527921,100.0,,sachin,chase,checking
+2022-12-21,9132 Recurring Debit Card Sl.Nord* Vpncom,-67.35,,sachin,pnc,checking
+2022-12-21,Direct Payment - XXXXX0666 Comcast 8529102 7399740,-55.0,,sachin,pnc,checking
+2022-12-21,8810 Debit Card Purchase Statue Cruises,-48.6,,nowrin,pnc,checking
+2022-12-21,8810 Debit Card Purchase DD Doordash Maggianos,-15.86,,nowrin,pnc,checking
+2022-12-21,POS Purchase CVS/Pharmacy # Ann Arbor Mi,-14.7,,sachin,pnc,checking
+2022-12-21,Zel From Shajil Mannil,1.0,,nowrin,pnc,checking
+2022-12-22,Zel To Shajil Mannil,-37.3,,sachin,pnc,checking
+2022-12-22,8810 Debit Card Purchase DD Doordash Madrasmas,-17.8,,nowrin,pnc,checking
+2022-12-22,8810 Debit Card Purchase Www.Statueoflibertytic,-14.0,,nowrin,pnc,checking
+2022-12-22,8810 Recurring Debit Card Doordash Dashpass,-4.99,,nowrin,pnc,checking
+2022-12-22,Zelle payment to shajil JPM999jxo19h,-1.0,,nowrin,chase,checking
+2022-12-22,Zel From Shajil Mannil,1.0,,sachin,pnc,checking
+2022-12-22,Debit Card Credit Sl.Nord* Vpncom HTTPSWWW.NO NY,67.35,,sachin,pnc,checking
+2022-12-23,9132 Debit Card Purchase Lyft 855-8659553 Ca,-6.0,,sachin,pnc,checking
+2022-12-27,"9132 Debit Card Purchase City Pass, Inc.",-188.0,,sachin,pnc,checking
+2022-12-27,9132 Debit Card Purchase Summit One Vanderbilt,-131.75,,sachin,pnc,checking
+2022-12-27,9132 Debit Card Purchase Expressvpn.Com,-99.95,,sachin,pnc,checking
+2022-12-27,9132 Debit Card Purchase Madame Tussauds New Yo,-95.78,,sachin,pnc,checking
+2022-12-28,Zelle payment to Sachin JPM999k67he8,-200.0,,nowrin,chase,checking
+2022-12-28,9132 Debit Card Purchase Mi Medicine - Mychart,-120.0,,sachin,pnc,checking
+2022-12-28,POS Purchase National Airpo Arlington VA,-30.0,,sachin,pnc,checking
+2022-12-28,Debit Card Credit Hm.Com 855-4667467 NY,23.74,,nowrin,pnc,checking
+2022-12-28,Debit Card Credit Zipcar Trip Dec29 175-7687280 MA,148.66,,sachin,pnc,checking
+2022-12-28,Zel From Nowrin Mohamed,200.0,,sachin,pnc,checking
+2022-12-29,9132 Debit Card Purchase Fever USA* The Friends,-102.62,,sachin,pnc,checking
+2022-12-29,Zelle payment to Avinash USA JPM999k75son,-60.0,,nowrin,chase,checking
+2022-12-29,9132 Debit Card Purchase Uber Help.Uber.C Ca,-56.24,,sachin,pnc,checking
+2022-12-29,8810 Debit Card Purchase Lawdepot 877-509-,-35.0,,nowrin,pnc,checking
+2022-12-29,9132 Debit Card Purchase Uber* Trip Www.Uber.C,-14.95,,sachin,pnc,checking
+2022-12-29,9132 Debit Card Purchase Uber Help.Uber.C Ca,-12.97,,sachin,pnc,checking
+2022-12-29,9132 Debit Card Purchase Uber Help.Uber.C Ca,-6.99,,sachin,pnc,checking
+2022-12-29,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-29,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-29,International POS Fee Vis 1228 CD,-1.05,,nowrin,pnc,checking
+2022-12-30,Zelle payment to Nowrin Mohamed USA JPM999k908oh,-100.0,,nowrin,chase,checking
+2022-12-30,9132 Debit Card Purchase Sq *Superfly Media Exp,-40.0,,sachin,pnc,checking
+2022-12-30,POS Purchase Macy's New York NY,-22.25,,nowrin,pnc,checking
+2022-12-30,9132 Debit Card Purchase Lyft 855-8659553 Ca,-21.8,,sachin,pnc,checking
+2022-12-30,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-30,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-30,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-30,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2022-12-30,MTA*METROCARD MACHINE NEW YORK NY    002347  12/30,-3.0,,sachin,chase,checking
+2022-12-30,MTA*METROCARD MACHINE NEW YORK NY    497023  12/30,-3.0,,sachin,chase,checking
+2022-12-30,9132 Debit Card Purchase Mta*Nyct Paygo,-2.75,,sachin,pnc,checking
+2022-12-30,9132 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,sachin,pnc,checking
+2022-12-30,Zel From Nowrin Mohamed,100.0,,nowrin,pnc,checking
+2023-01-03,Web Pmt- Umich Epay Univ Of Michigan 430048434,-310.38,,sachin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Tmobile*Prepaid Web,-78.4,,nowrin,pnc,checking
+2023-01-03,9132 Debit Card Purchase Uber Help.Uber.C Ca,-67.43,,sachin,pnc,checking
+2023-01-03,Zelle payment to Nowrin Mohamed USA JPM999kdbypy,-50.0,,nowrin,chase,checking
+2023-01-03,9132 Debit Card Purchase Uber Help.Uber.C Ca,-23.9,,sachin,pnc,checking
+2023-01-03,8810 Debit Card Purchase DD Doordash Ihop,-23.62,,nowrin,pnc,checking
+2023-01-03,Zelle payment to NOWRIN 16197957923,-20.0,,sachin,chase,checking
+2023-01-03,8810 Debit Card Purchase DD Doordash Tropicals,-17.59,,nowrin,pnc,checking
+2023-01-03,BURGER KING #13430 NEW YORK NY               12/30,-16.2,,sachin,chase,checking
+2023-01-03,TST* SUMMIT - ONE VANDE NEW YORK NY          12/31,-12.89,,sachin,chase,checking
+2023-01-03,8810 Debit Card Purchase Tmobile*Prepaid Web,-11.2,,nowrin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Tst* Miznon - Hudson Y,-7.63,,nowrin,pnc,checking
+2023-01-03,POS Purchase Kroger #605 26 Ann Arbor Mi,-5.38,,sachin,pnc,checking
+2023-01-03,9132 Debit Card Purchase Ramada Inn Flushing,-4.0,,sachin,pnc,checking
+2023-01-03,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2023-01-03,POS Purchase Mta*Metrocard New York NY,-3.0,,sachin,pnc,checking
+2023-01-03,ATM Balance Inquiry Fee,-3.0,,sachin,pnc,checking
+2023-01-03,NON-CHASE ATM FEE-INQ,-3.0,,sachin,chase,checking
+2023-01-03,MTA*METROCARD MACHINE NEW YORK NY    933422  12/31,-3.0,,sachin,chase,checking
+2023-01-03,POS Purchase Mta*Metrocard New York NY,-3.0,,nowrin,pnc,checking
+2023-01-03,NON-CHASE ATM FEE-INQ,-3.0,,nowrin,chase,checking
+2023-01-03,8810 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,nowrin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,nowrin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,nowrin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,nowrin,pnc,checking
+2023-01-03,8810 Debit Card Purchase Mta*Nyct Paygo New Yo,-2.75,,nowrin,pnc,checking
+2023-01-03,Zelle payment from SACHIN SALIM 16197957923,20.0,,nowrin,chase,checking
+2023-01-03,Zel From Nowrin Mohamed,50.0,,nowrin,pnc,checking
+2023-01-03,ATM Deposit 2101 Bonisteel Ann Arbor Mi,115.0,,sachin,pnc,checking
+2023-01-03,ATM Deposit 2101 Bonisteel Ann Arbor Mi,1000.0,,sachin,pnc,checking
+2023-01-04,Web Pmt- Umich Epay Univ Of Michigan 430054352,-1508.69,,sachin,pnc,checking
+2023-01-04,9132 Debit Card Purchase DD Doordash Madrasmas,-29.99,,sachin,pnc,checking
+2023-01-04,UBER   EATS HELP.UBER.COM CA                 01/04,-28.25,,nowrin,chase,checking
+2023-01-04,UBER   EATS HELP.UBER.COM CA                 01/04,-27.02,,nowrin,chase,checking
+2023-01-04,8810 Debit Card Purchase DD Doordash Wendys,-18.61,,nowrin,pnc,checking
+2023-01-04,8810 Debit Card Purchase DD Doordash Ihop,-17.35,,nowrin,pnc,checking
+2023-01-04,THE UPS STORE 1993 734-6626666 MI            01/03,-2.79,,nowrin,chase,checking
+2023-01-04,Wire Transfer In Na1410318Dy10Zvx,1168.99,,sachin,pnc,checking
+2023-01-05,POS Purchase Kroger #605 Ann Arbor Mi,-33.13,,sachin,pnc,checking
+2023-01-05,POS Purchase Om Market Ann Arbor Mi,-11.51,,sachin,pnc,checking
+2023-01-05,9132 Debit Card Purchase Uber Help.Uber.C Ca,-8.91,,sachin,pnc,checking
+2023-01-06,Zel To Nowrin Mohamed,-100.0,,sachin,pnc,checking
+2023-01-06,Zelle payment to NOWRIN 16222200510,-30.0,,sachin,chase,checking
+2023-01-06,RAVE 1097,-25.49,Entertainment,nowrin,chase,credit
+2023-01-06,9132 Debit Card Purchase Fireside Cafe Ann Arb,-11.63,,sachin,pnc,checking
+2023-01-06,RAVE 1097,4.66,Entertainment,nowrin,chase,credit
+2023-01-06,Debit Card Credit Paypal *Shein 402- 9357733 De,14.39,,nowrin,pnc,checking
+2023-01-06,Zelle payment from SACHIN SALIM 16222200510,30.0,,nowrin,chase,checking
+2023-01-09,Zel To Nowrin Mohamed,-300.0,,sachin,pnc,checking
+2023-01-09,Web Pmt- Transfer Chasbk Ck Webxfr 6244567909,-200.0,,sachin,pnc,checking
+2023-01-09,8810 Debit Card Purchase Amzn Mktp US*Wo26Q56L3,-84.74,,nowrin,pnc,checking
+2023-01-09,8810 Debit Card Purchase Amzn Mktp US*C760G3I63,-24.18,,nowrin,pnc,checking
+2023-01-09,9132 Debit Card Purchase Rave 1097 Ypsilanti M,-18.5,,sachin,pnc,checking
+2023-01-09,POS Purchase Om Market Ann Arbor Mi,-15.02,,sachin,pnc,checking
+2023-01-09,POS Purchase Kroger #605 26 Ann Arbor Mi,-13.91,,sachin,pnc,checking
+2023-01-09,8810 Debit Card Purchase Amzn Mktp US*Qt7Qd1413,-10.59,,nowrin,pnc,checking
+2023-01-09,9132 Debit Card Purchase Uber Help.Uber.C Ca,-7.94,,sachin,pnc,checking
+2023-01-09,UBER   TRIP HELP.UBER.COM CA                 01/08,-6.49,,nowrin,chase,checking
+2023-01-09,Zel From Sachin Salim,300.0,,nowrin,pnc,checking
+2023-01-10,8810 Debit Card Purchase Paypal *Walmart Com,-222.42,,nowrin,pnc,checking
+2023-01-10,8810 Debit Card Purchase DD Doordash,-26.61,,nowrin,pnc,checking
+2023-01-11,ATM Transaction Fee Reimbursement,3.0,,sachin,pnc,checking
+2023-01-11,PNCBK CK WEBXFR  P2P        SACHIN . SALIM  WEB ID: 1770527921,200.0,,sachin,chase,checking
+2023-01-12,8810 Debit Card Purchase DD Doordash,-22.46,,nowrin,pnc,checking
+2023-01-12,9132 Debit Card Purchase Snack Soda totaling $237.37. Vending,-3.55,,sachin,pnc,checking
+2023-01-12,9132 Debit Card Purchase Snack Soda,-3.3,,sachin,pnc,checking
+2023-01-17,Zel To Nowrin Mohamed,-100.0,,sachin,pnc,checking
+2023-01-17,9132 Debit Card Purchase The Earle Ann Arbor M,-65.0,,sachin,pnc,checking
+2023-01-17,POS Purchase Kroger #605 Ann Arbor Mi,-63.32,,sachin,pnc,checking
+2023-01-17,POS Purchase Om Market Ann Arbor Mi,-27.34,,sachin,pnc,checking
+2023-01-17,8810 Debit Card Purchase DD Doordash,-16.64,,nowrin,pnc,checking
+2023-01-17,MONTHLY SERVICE FEE,-12.0,,sachin,chase,checking
+2023-01-17,POS Purchase Om Market Ann Arbor Mi,-11.99,,nowrin,pnc,checking
+2023-01-17,8810 Debit Card Purchase Monahan's Seafood Mark,-11.1,,nowrin,pnc,checking
+2023-01-17,9132 Debit Card Purchase Uber Help.Uber.C Ca,-10.96,,sachin,pnc,checking
+2023-01-17,9132 Debit Card Purchase Uber Help.Uber.C Ca,-10.95,,sachin,pnc,checking
+2023-01-17,9132 Debit Card Purchase Fireside Cafe Ann,-6.59,,sachin,pnc,checking
+2023-01-17,9132 Debit Card Purchase Fireside Cafe Ann Arb,-5.75,,sachin,pnc,checking
+2023-01-17,Zel From Sachin Salim,100.0,,nowrin,pnc,checking
+2023-01-18,9132 Debit Card Purchase Amazon.Com*I20T54K03 A,-31.79,,sachin,pnc,checking
+2023-01-18,MONTHLY SERVICE FEE,-12.0,,nowrin,chase,checking
+2023-01-18,9132 Recurring Debit Card Doordash Dashpass,-9.99,,sachin,pnc,checking
+2023-01-18,MONTHLY SERVICE FEE,-5.0,,nowrin,chase,savings
+2023-01-19,8810 Debit Card Purchase DD Doordash Burgerkin,-18.78,,nowrin,pnc,checking
+2023-01-19,ODP TRANSFER TO CHECKING  000000888387138,-7.42,,nowrin,chase,savings
+2023-01-19,8810 Recurring Debit Card Apple.Com/Bill,-0.99,,nowrin,pnc,checking
+2023-01-19,ODP TRANSFER FROM SAVINGS 000003956902267,7.42,,nowrin,chase,checking
+2023-01-20,PATEL BROTHERS OF ANN ARB,-43.88,Groceries,nowrin,chase,credit
+2023-01-20,Zelle payment from VIBHOR GUPTA PNCAA0DqA21N,25.0,,sachin,chase,checking
+2023-01-23,CLARKSON-PLYMOUTH ANN ARBOR MI       467748  01/21,-115.0,,sachin,chase,checking
+2023-01-23,1995 GREAT CLIPS AT PLY ANN ARBOR MI         01/21,-45.0,,sachin,chase,checking
+2023-01-23,9132 Debit Card Purchase Ihop #3110 Ypsilanti,-16.2,,sachin,pnc,checking
+2023-01-23,8810 Recurring Debit Card Doordash Dashpass,-4.99,,nowrin,pnc,checking
+2023-01-25,DD *BURGER1 855-431-0459 CA                  01/24,-23.26,,sachin,chase,checking
+2023-01-25,Online Realtime Transfer to SachinPNC  6272 transaction#: 16373878424 reference#: 9373878424RX 01/25,-20.0,,sachin,chase,checking
+2023-01-25,9132 Debit Card Purchase Mujo Cafe Ann Arbor M,-5.75,,sachin,pnc,checking
+2023-01-25,AHMOS GYROS &amp; DELI,-4.76,Food & Drink,nowrin,chase,credit
+2023-01-25,FIRESIDE CAFE ANN ARBOR MI                   01/24,-3.19,,sachin,chase,checking
+2023-01-26,UBER   EATS,-27.02,Food & Drink,nowrin,chase,credit
+2023-01-26,8810 Debit Card Purchase DD Doordash Tasteofin,-18.64,,nowrin,pnc,checking
+2023-01-26,8810 Debit Card Purchase Fireside Cafe Ann Arb,-9.78,,nowrin,pnc,checking
+2023-01-26,8810 Debit Card Purchase Mujo Cafe Ann Arbor M,-5.75,,nowrin,pnc,checking
+2023-01-26,9132 Debit Card Purchase Google*Google Storage,-0.49,,sachin,pnc,checking
+2023-01-27,8810 Debit Card Purchase Fireside Cafe Ann Arb,-25.87,,nowrin,pnc,checking
+2023-01-27,Direct Deposit - Cable Svc Comcast 5865810,10.65,,sachin,pnc,checking
+2023-01-27,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,48.55,,nowrin,chase,checking
+2023-01-29,DD *BURGERKING,-15.08,Food & Drink,nowrin,chase,credit
+2023-01-30,Zelle payment to Vishnu  Priya JPM999lfutst,-39.5,,nowrin,chase,checking
+2023-01-30,POS Purchase Kroger #605 Ann Arbor Mi,-25.87,,sachin,pnc,checking
+2023-01-30,Debit Card Credit Fireside Cafe Ann Arbor Mi,25.87,,nowrin,pnc,checking
+2023-01-31,DD *MAGGIANOSITA,-25.35,Food & Drink,nowrin,chase,credit
+2023-01-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,2926.85,,sachin,chase,checking
+2023-01-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,2933.22,,nowrin,chase,checking
+2023-02-01,Univ of Michigan UMich ePay 430113888       WEB ID: 1364199567,-1410.69,,nowrin,chase,checking
+2023-02-01,Online Realtime Transfer to SachinPNC  6272 transaction#: 16432174241 reference#: 9432174241RX 02/01,-1000.0,,sachin,chase,checking
+2023-02-01,Autosave SavePerMonth 11351078764,-25.0,,sachin,chase,checking
+2023-02-01,9132 Debit Card Purchase Lyft Lyft.Com Ca,-13.58,,sachin,pnc,checking
+2023-02-01,Autosave SavePerMonth 11351078764,25.0,,sachin,chase,savings
+2023-02-02,Zelle payment to Nowrin Mohamed USA JPM999ohtx19,-1300.0,,nowrin,chase,checking
+2023-02-02,8810 Debit Card Purchase Amzn Mktp US*6F67J0Ds3,-10.06,,nowrin,pnc,checking
+2023-02-02,Zel From Shrikant Arvavasu,38.18,,nowrin,pnc,checking
+2023-02-02,Zel From Nowrin Mohamed,1300.0,,nowrin,pnc,checking
+2023-02-03,Web Pmt- E-Payment Discover 6262,-1298.89,,nowrin,pnc,checking
+2023-02-03,Payment to Chase card ending in 7345 02/03,-136.92,,nowrin,chase,checking
+2023-02-03,Payment to Chase card ending in 7345 02/03,-90.0,,nowrin,chase,checking
+2023-02-03,DD *TASTEOFINDI,-29.99,Food & Drink,nowrin,chase,credit
+2023-02-03,HAIFA FALAFEL,-21.94,Food & Drink,nowrin,chase,credit
+2023-02-03,DD *TASTEOFINDI,-15.57,Food & Drink,nowrin,chase,credit
+2023-02-03,8810 Debit Card Purchase Amazon web services,-3.86,,nowrin,pnc,checking
+2023-02-03,Payment Thank You-Mobile,90.0,,nowrin,chase,credit
+2023-02-03,Payment Thank You-Mobile,136.92,,nowrin,chase,credit
+2023-02-04,HERTZ #0541311,-80.68,Travel,nowrin,chase,credit
+2023-02-05,AVIS.COM PREPAY 800-352-7900 VA,-70.94,Travel/ Entertainment,sachin,discover,credit
+2023-02-06,Zelle payment to NOWRIN 16487443212,-500.0,,sachin,chase,checking
+2023-02-06,Zel To Nowrin Mohamed,-400.0,,sachin,pnc,checking
+2023-02-06,POS Purchase Patel Brothers Ann Arbor Mi,-50.81,,sachin,pnc,checking
+2023-02-06,POS Purchase Wm Supercenter Saline Mi,-44.5,,sachin,pnc,checking
+2023-02-06,9132 Debit Card Purchase Tst* Palio - Ann Arbor,-36.0,,sachin,pnc,checking
+2023-02-06,8810 Debit Card Purchase Sq *Famous Chicken Cen,-28.74,,nowrin,pnc,checking
+2023-02-06,POS Purchase Kroger Fuel #9 Ypsilanti Mi,-18.88,,sachin,pnc,checking
+2023-02-06,8810 Debit Card Purchase Starbucks Store 11966,-8.69,,nowrin,pnc,checking
+2023-02-06,8810 Debit Card Purchase CVS/Pharmacy #08006,-6.35,,nowrin,pnc,checking
+2023-02-06,POS Purchase Kroger #605 26 Ann Arbor Mi,-5.74,,sachin,pnc,checking
+2023-02-06,Zel From Sachin Salim,400.0,,nowrin,pnc,checking
+2023-02-06,Zelle payment from SACHIN SALIM 16487443212,500.0,,nowrin,chase,checking
+2023-02-07,SPIRIT AIRL 4870336236 800-7727117 FL        02/05,-362.72,,sachin,chase,checking
+2023-02-07,Zelle payment to NOWRIN 16499537964,-250.0,,sachin,chase,checking
+2023-02-07,9132 Debit Card Purchase Uber Help.Uber.C,-12.98,,sachin,pnc,checking
+2023-02-07,9132 Debit Card Purchase Meijer # 027,-4.49,,sachin,pnc,checking
+2023-02-07,8810 Debit Card Purchase Mujo Cafe Ann Arbor M,-3.5,,nowrin,pnc,checking
+2023-02-07,$100 STATEMENT CREDIT W 1ST PU,100.0,Awards and Rebate Credits,sachin,discover,credit
+2023-02-07,Zelle payment from SACHIN SALIM 16499537964,250.0,,nowrin,chase,checking
+2023-02-08,Online Transfer to SAV ...2267 transaction#: 16516375422 02/08,-450.0,,nowrin,chase,checking
+2023-02-08,AIRBNB HMAPZ8HPTB 855-424-7262 CA,-181.02,Travel/ Entertainment,sachin,discover,credit
+2023-02-08,Online Transfer to SAV ...2267 transaction#: 16516225032 02/08,-50.0,,nowrin,chase,checking
+2023-02-08,8810 Debit Card Purchase DD Doordash,-15.45,,nowrin,pnc,checking
+2023-02-08,Online Transfer from CHK ...7138 transaction#: 16516225032,50.0,,nowrin,chase,savings
+2023-02-08,Online Transfer from CHK ...7138 transaction#: 16516375422,450.0,,nowrin,chase,savings
+2023-02-09,8810 Debit Card Purchase Venmo 855- 8124430 NY,-81.41,,nowrin,pnc,checking
+2023-02-09,TASTE OF INDIA ANN ARBOR MI,-39.05,Restaurants,sachin,discover,credit
+2023-02-09,SPEEDWAY 08708 ANN ARBOR ANN ARBOR MI,-22.6,Gasoline,sachin,discover,credit
+2023-02-09,8810 Debit Card Purchase DD Doordash,-16.64,,nowrin,pnc,checking
+2023-02-09,A2 PCI PARKING 82 RAMP IRVINE CA,-2.4,Services,sachin,discover,credit
+2023-02-10,NON-CHASE ATM WITHDRAW               017727  02/1031425 FIV,-203.5,,sachin,chase,checking
+2023-02-10,ENTERPRISE RENT-A-CAR 734-3272600 MI,-34.56,Travel/ Entertainment,sachin,discover,credit
+2023-02-10,8810 Debit Card Purchase DD Doordash Tasteofin,-16.64,,nowrin,pnc,checking
+2023-02-10,8810 Debit Card Purchase DD Doordash Burgerkin,-15.45,,nowrin,pnc,checking
+2023-02-10,8810 Debit Card Purchase Mujo Cafe Ann Arbor M,-10.75,,nowrin,pnc,checking
+2023-02-10,NON-CHASE ATM FEE-WITH,-3.0,,sachin,chase,checking
+2023-02-10,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,100.54,,nowrin,chase,checking
+2023-02-13,8810 Debit Card Purchase Expedia 72490006990460,-137.78,,nowrin,pnc,checking
+2023-02-13,MATTSON AND MATTSON LLC 517-2639292 MI,-72.1,Education,sachin,discover,credit
+2023-02-13,MATTSON AND MATTSON LLC 517-2639292 MI,-72.1,Education,sachin,discover,credit
+2023-02-13,KROGER #6 2641 PLYMOUT ANN ARBOR MI          02/13,-47.41,,sachin,chase,checking
+2023-02-13,SHEESH MEDITERRANEAN CU LIVONIA MI           02/10,-22.26,,sachin,chase,checking
+2023-02-13,8810 Debit Card Purchase DD Doordash Burgerkin,-20.47,,nowrin,pnc,checking
+2023-02-13,Zel To Rahul Ramamoorthy,-16.99,,sachin,pnc,checking
+2023-02-13,9132 Debit Card Purchase Amzn Mktp Machine/Debit Card deductions US*He4164Vf0 totaling $264.52.,-10.49,,sachin,pnc,checking
+2023-02-13,9132 Debit Card Purchase Uber Help.Uber.C,-10.27,,sachin,pnc,checking
+2023-02-14,POS Purchase U-Of-Mich-Ncam Ann Arbor Mi,-3.16,,sachin,pnc,checking
+2023-02-15,AIRBNB HMAPZ8HPTB 855-424-7262 CA,-724.06,Travel/ Entertainment,sachin,discover,credit
+2023-02-15,DD DOORDASH MAGGIANOS 855-973-1040 CA        02/15,-25.08,,sachin,chase,checking
+2023-02-15,POS Purchase Kroger #605 Ann Arbor Mi,-20.37,,sachin,pnc,checking
+2023-02-15,MONTHLY SERVICE FEE,-5.0,,nowrin,chase,savings
+2023-02-15,8810 Debit Card Purchase Mujo Cafe Ann Arbor M,-4.75,,nowrin,pnc,checking
+2023-02-17,DD DOORDASH NAMASTEFL 855-973-1040 CA        02/17,-17.68,,sachin,chase,checking
+2023-02-17,9132 Debit Card Purchase Zipcar Trip Feb16,-14.05,,sachin,pnc,checking
+2023-02-17,9132 Debit Card Purchase Zipcar Trip Feb16,-10.07,,sachin,pnc,checking
+2023-02-17,9132 Debit Card Purchase Zipcar Extend Feb17,-7.02,,sachin,pnc,checking
+2023-02-17,9132 Debit Card Purchase Zipcar Extend Feb16,-5.04,,sachin,pnc,checking
+2023-02-18,VANS #0506 ANN ARBOR MI,-90.1,Merchandise,sachin,discover,credit
+2023-02-18,0100 FOREVER 21 ANN ARBOR MI,-47.0,Merchandise,sachin,discover,credit
+2023-02-19,IHOP #3110 YPSILANTI MI,-26.0,Restaurants,sachin,discover,credit
+2023-02-20,ENTERPRISE RENT-A-CAR 734-7691144 MI,-110.03,Travel/ Entertainment,sachin,discover,credit
+2023-02-21,TMOBILE*AUTO PAY 800-937-8997 WA             02/20,-258.32,,nowrin,chase,checking
+2023-02-21,8810 Debit Card Purchase Altar'D State #193,-29.67,,nowrin,pnc,checking
+2023-02-21,POS Purchase Kroger #605 Ann Arbor Mi,-19.47,,nowrin,pnc,checking
+2023-02-21,8810 Debit Card Purchase DD Doordash Tasteofin,-15.53,,nowrin,pnc,checking
+2023-02-21,8810 Debit Card Purchase DD Doordash Burgerkin,-14.59,,nowrin,pnc,checking
+2023-02-21,ADRIAN MART ADRIAN MI                        02/18,-13.42,,sachin,chase,checking
+2023-02-21,9132 Recurring Debit Card Doordash Dashpass,-9.99,,sachin,pnc,checking
+2023-02-21,8810 Recurring Debit Card Apple.Com/Bill,-0.99,,nowrin,pnc,checking
+2023-02-21,Zel From Shrikant Arvavasu,26.0,,nowrin,pnc,checking
+2023-02-21,Zel From Vishnupriya Ramani,62.0,,nowrin,pnc,checking
+2023-02-22,9132 Debit Card Purchase Zipcar Trip Feb21,-15.11,,sachin,pnc,checking
+2023-02-22,9132 Debit Card Purchase Zipcar Extend Feb21,-5.03,,sachin,pnc,checking
+2023-02-22,8810 Recurring Debit Card Doordash Dashpass,-4.99,,nowrin,pnc,checking
+2023-02-22,8810 Debit Card Purchase Mujo Cafe Ann,-4.37,,nowrin,pnc,checking
+2023-02-23,9132 Debit Card Purchase Zipcar Trip Feb22,-26.96,,sachin,pnc,checking
+2023-02-23,SNACK SODA VENDING ROMULUS MI,-2.15,Restaurants,sachin,discover,credit
+2023-02-23,SNACK SODA VENDING ROMULUS MI,-2.15,Restaurants,sachin,discover,credit
+2023-02-23,Zel From Karishma Anandan,27.0,,nowrin,pnc,checking
+2023-02-24,ATM Withdrawal 1301 SE 17TH St Fort Lauderd Fl,-80.0,,sachin,pnc,checking
+2023-02-24,CVS/PHARMACY #03285 FT LAUDERDALEFL,-38.79,Merchandise,sachin,discover,credit
+2023-02-24,WALMART SC 01996 HALLANDALE FL,-28.12,Merchandise,sachin,discover,credit
+2023-02-24,TST* NATIONAL CONEY ISLA ROSEVILLE MI,-24.22,Restaurants,sachin,discover,credit
+2023-02-24,9132 Debit Card Purchase Zipcar Trip Feb23,-22.79,,sachin,pnc,checking
+2023-02-24,8810 Debit Card Purchase DD Doordash Shalimarr,-18.91,,nowrin,pnc,checking
+2023-02-24,FORT LAUDERDALE AIRPOR FORT LAUDERDAFL,-18.67,Restaurants,sachin,discover,credit
+2023-02-24,8810 Debit Card Purchase DD Doordash Burgerkin,-16.08,,nowrin,pnc,checking
+2023-02-24,WALMART SC 01996 HALLANDALE FL,-16.02,Merchandise,sachin,discover,credit
+2023-02-24,9132 Debit Card Purchase Zipcar Extend Feb23,-5.7,,sachin,pnc,checking
+2023-02-24,NON-CHASE ATM FEE-INQ,-3.0,,sachin,chase,checking
+2023-02-24,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,100.54,,nowrin,chase,checking
+2023-02-25,COOPERTOWNEVERGLADES MIAMI FL,-42.8,Restaurants,sachin,discover,credit
+2023-02-25,MCDONALD'S F12730 HOLLYWOOD FL,-26.8,Restaurants,sachin,discover,credit
+2023-02-25,SQ *TRENDZ GLOBAL LLC MIAMI BEACH FL0002305843017123205118,-26.74,Merchandise,sachin,discover,credit
+2023-02-25,CVS/PHARMACY #05142,-16.04,Health & Wellness,nowrin,chase,credit
+2023-02-25,GIFTSHOP,-5.89,Shopping,nowrin,chase,credit
+2023-02-26,SQ *TIKKA BAR,-90.85,Food & Drink,nowrin,chase,credit
+2023-02-26,SAJNA INDIAN CUISINE HOLLYWOOD FL,-60.93,Restaurants,sachin,discover,credit
+2023-02-26,CASA LATIN CAFE REST MIAMI FL,-38.2,Restaurants,sachin,discover,credit
+2023-02-27,Zelle payment to NOWRIN 16676638147,-250.0,,sachin,chase,checking
+2023-02-27,Zelle payment to Nowrin Mohamed USA JPM999t3j8pu,-250.0,,nowrin,chase,checking
+2023-02-27,Zelle payment to Sachin 16689421622,-197.0,,nowrin,chase,checking
+2023-02-27,COOPERTOWN EVERGLADES MIAMI FL               02/25,-131.07,,sachin,chase,checking
+2023-02-27,VIATORTRIPADVISOR US 702-749-5744 CA,-120.0,Travel/ Entertainment,sachin,discover,credit
+2023-02-27,Zel To Sachin Salim,-100.0,,nowrin,pnc,checking
+2023-02-27,BOMBAY DARBAR FORT LAU,-45.0,Food & Drink,nowrin,chase,credit
+2023-02-27,8810 Debit Card Purchase DD Doordash Shrimpfla,-18.68,,nowrin,pnc,checking
+2023-02-27,PP EAST PARK - LOT 163 MIAMI FL02731R,-15.0,Services,sachin,discover,credit
+2023-02-27,SPIRIT AIRLINES ONBOARD IRVING TX,-4.0,Restaurants,sachin,discover,credit
+2023-02-27,PARKING (IPS),-3.0,Travel,nowrin,chase,credit
+2023-02-27,9132 Recurring Debit Card Google *Google Storag,-1.99,,sachin,pnc,checking
+2023-02-27,Zel To Sachin Salim,-1.0,,nowrin,pnc,checking
+2023-02-27,Zel To Sachin Salim,-1.0,,nowrin,pnc,checking
+2023-02-27,Zelle payment from NOWRIN MOHAMED PNCAA0EOt11x,1.0,,sachin,chase,checking
+2023-02-27,Zelle payment from NOWRIN MOHAMED PNCAA0EOs61v,1.0,,sachin,chase,checking
+2023-02-27,Zel From Vishwa Tiwari,26.0,,nowrin,pnc,checking
+2023-02-27,Zelle payment from NOWRIN MOHAMED PNCAA0EOt16A,100.0,,sachin,chase,checking
+2023-02-27,Zelle payment from NOWRIN MOHAMED 16689421622,197.0,,sachin,chase,checking
+2023-02-27,Zel From Nowrin Mohamed,250.0,,nowrin,pnc,checking
+2023-02-27,Zelle payment from SACHIN SALIM 16676638147,250.0,,nowrin,chase,checking
+2023-02-28,JACKS DINER 754-4230571 FL                   02/27,-64.89,,sachin,chase,checking
+2023-02-28,CHILI'S BAYSIDE MIAMI MIAMI FL               02/27,-64.16,,sachin,chase,checking
+2023-02-28,V INDIAN RESTAURANT,-36.15,Food & Drink,nowrin,chase,credit
+2023-02-28,PARK @ 420 MIAMI BEACH FL02830R,-36.0,Services,sachin,discover,credit
+2023-02-28,SQ *KITH TREATS - MIAMI D,-15.26,Food & Drink,nowrin,chase,credit
+2023-02-28,FORT LAUDERDALE AIRPOR FORT LAUDERDAFL,-12.25,Restaurants,sachin,discover,credit
+2023-02-28,LITTLE HAVANA VISITORS,-5.34,Shopping,nowrin,chase,credit
+2023-02-28,PARTY CAKE BAKERY XII,-3.85,Food & Drink,nowrin,chase,credit
+2023-02-28,AMERIPARK 30216501,-3.0,Travel,nowrin,chase,credit
+2023-02-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,2668.63,,sachin,chase,checking
+2023-02-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,2675.1,,nowrin,chase,checking
+2023-03-01,Zelle payment to NOWRIN 16715000432,-250.0,,sachin,chase,checking
+2023-03-01,Online Transfer to SAV ...2267 transaction#: 16715042533 03/01,-250.0,,nowrin,chase,checking
+2023-03-01,Autosave SavePerMonth 11363069451,-25.0,,sachin,chase,checking
+2023-03-01,MIAMI PARKING LOT MIAMI BEACH FL,-10.0,Services,sachin,discover,credit
+2023-03-01,SQ *SABAL COFFEE Miami FL                    02/28,-3.85,,sachin,chase,checking
+2023-03-01,Autosave SavePerMonth 11363069451,25.0,,sachin,chase,savings
+2023-03-01,INTERNET PAYMENT - THANK YOU,151.96,Payments and Credits,sachin,discover,credit
+2023-03-01,Zelle payment from SACHIN SALIM 16715000432,250.0,,nowrin,chase,checking
+2023-03-01,Online Transfer from CHK ...7138 transaction#: 16715042533,250.0,,nowrin,chase,savings
+2023-03-02,Univ of Michigan UMich ePay 430149946       WEB ID: 1364199567,-1323.25,,nowrin,chase,checking
+2023-03-02,Payment to Chase card ending in 7345 03/02,-246.41,,nowrin,chase,checking
+2023-03-02,DD DOORDASH WENDYS,-15.01,Food & Drink,nowrin,chase,credit
+2023-03-02,8810 Debit Card Purchase McDonald's 39235,-12.86,,nowrin,pnc,checking
+2023-03-02,Zel From Karishma Anandan,28.0,,nowrin,pnc,checking
+2023-03-02,Payment Thank You-Mobile,246.41,,nowrin,chase,credit
+2023-03-03,Online Transfer to  SAV ...2267 transaction#: 16713557114,-250.0,,nowrin,chase,checking
+2023-03-03,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-151.96,,sachin,chase,checking
+2023-03-03,9132 Debit Card Purchase Lyft lyft.com Ca,-42.96,,sachin,pnc,checking
+2023-03-03,8810 Debit Card Purchase DD Doordash Tasteofin,-33.28,,nowrin,pnc,checking
+2023-03-03,8810 Debit Card Purchase Ic* Instacart*1102,-23.22,,nowrin,pnc,checking
+2023-03-03,9132 Debit Card Purchase Zipcar Trip Mar02,-21.07,,sachin,pnc,checking
+2023-03-03,9132 Debit Card Purchase Zipcar Extend Mar02,-7.02,,sachin,pnc,checking
+2023-03-03,8810 Debit Card Purchase Amazon web services,-4.26,,nowrin,pnc,checking
+2023-03-03,Debit Card Credit Doordash Dashpass,4.99,,nowrin,pnc,checking
+2023-03-03,VANS #0506 ANN ARBOR MI,90.1,Payments and Credits,sachin,discover,credit
+2023-03-03,Online Transfer from  CHK ...7138 transaction#: 16713557114,250.0,,nowrin,chase,savings
+2023-03-03,VENMO            CASHOUT                    PPD ID: 5264681992,298.16,,nowrin,chase,checking
+2023-03-04,MARATHON PETRO179283,-13.81,Gas,nowrin,chase,credit
+2023-03-05,SQ *LAN CITY NOODLE BA ANN ARBOR MI0002305843017168757039,-15.37,Restaurants,sachin,discover,credit
+2023-03-06,ENTERPRISE RENT-A-CAR,-80.33,Travel,nowrin,chase,credit
+2023-03-06,8810 Debit Card Purchase Mattson and Mattson Ll,-72.1,,nowrin,pnc,checking
+2023-03-06,DD DOORDASH APPLEBEES 855-973-1040 CA        03/06,-17.91,,sachin,chase,checking
+2023-03-06,DD DOORDASH NOODLESCO 855-973-1040 CA        03/05,-17.0,,sachin,chase,checking
+2023-03-06,DD DOORDASH SHRIMPFLA,-16.68,Food & Drink,nowrin,chase,credit
+2023-03-06,SNACK* AHMOS NORTH CA 120-36845156 CA        03/06,-10.59,,sachin,chase,checking
+2023-03-06,Debit Card Credit Zipcar Trip Mar05,41.02,,sachin,pnc,checking
+2023-03-07,Zelle payment to NOWRIN 16764177755,-481.0,,sachin,chase,checking
+2023-03-07,Zelle payment to NOWRIN 16764218074,-64.78,,sachin,chase,checking
+2023-03-07,IC* INSTACART*161,-18.44,Groceries,nowrin,chase,credit
+2023-03-07,DD DOORDASH BURGERKIN,-14.22,Food & Drink,nowrin,chase,credit
+2023-03-07,INSTACART CREDIT,10.0,Fees & Adjustments,nowrin,chase,credit
+2023-03-07,Zelle payment from SACHIN SALIM 16764218074,64.78,,nowrin,chase,checking
+2023-03-07,Zelle payment from SACHIN SALIM 16764177755,481.0,,nowrin,chase,checking
+2023-03-08,8810 Debit Card Purchase Apple.Com/Bill,-42.39,,nowrin,pnc,checking
+2023-03-08,PANDA EXPRESS #1124 ANN ARBOR MI             03/07,-8.27,,sachin,chase,checking
+2023-03-08,9132 Debit Card Purchase Amazon,-7.94,,sachin,pnc,checking
+2023-03-08,BLUE MARKET AT PIERPONT ANN ARBOR MI         03/07,-5.0,,sachin,chase,checking
+2023-03-09,8810 Debit Card Purchase Grubhubindiacafe,-24.27,,nowrin,pnc,checking
+2023-03-09,ETOLL AVIS U413690863 800-482-0159 FL        03/09,-13.78,,sachin,chase,checking
+2023-03-09,8810 Debit Card Purchase Snack* Ahmos North Cam,-10.59,,nowrin,pnc,checking
+2023-03-09,POS Purchase Om Market Ann Arbor Mi,-10.0,,nowrin,pnc,checking
+2023-03-09,PANDA EXPRESS #1124 ANN ARBOR MI             03/08,-9.86,,sachin,chase,checking
+2023-03-09,SNACK SODA VENDING ANN ARBOR MI              03/08,-3.3,,nowrin,chase,checking
+2023-03-09,PANDA EXPRESS #1124 ANN ARBOR MI             03/08,-2.12,,sachin,chase,checking
+2023-03-09,INTERNET PAYMENT - THANK YOU,500.0,Payments and Credits,sachin,discover,credit
+2023-03-10,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-500.0,,sachin,chase,checking
+2023-03-10,DD DOORDASH IHOP,-13.75,Food & Drink,nowrin,chase,credit
+2023-03-10,PANDA EXPRESS #1124 ANN ARBOR MI             03/09,-11.18,,sachin,chase,checking
+2023-03-10,IC* INSTACART*161,-8.3,Groceries,nowrin,chase,credit
+2023-03-10,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,100.54,,nowrin,chase,checking
+2023-03-13,Zelle payment to Pavan Rahul Friend JPM999u0mfhg,-44.29,,sachin,chase,checking
+2023-03-13,9132 Debit Card Purchase Zipcar Trip Mar10,-25.18,,sachin,pnc,checking
+2023-03-13,DD DOORDASH NAMASTEFL,-24.46,Food & Drink,nowrin,chase,credit
+2023-03-13,9132 Debit Card Purchase Zipcar Extend Mar11,-10.07,,sachin,pnc,checking
+2023-03-13,SQ *BON BON BON ANN ARB Ann Arbor MI         03/11,-9.99,,sachin,chase,checking
+2023-03-13,8810 Debit Card Purchase Uber Help.Uber.C Ca,-7.93,,nowrin,pnc,checking
+2023-03-14,PANDA EXPRESS #1124 ANN ARBOR MI             03/13,-9.86,,sachin,chase,checking
+2023-03-14,Zelle payment from SHAJIL MANNIL PNCAA0EZR74X,5.88,,sachin,chase,checking
+2023-03-14,ATM Deposit 2101 Bonisteel Ann Arbor Mi,20.0,,sachin,pnc,checking
+2023-03-14,ATM Deposit 2101 Bonisteel Ann Arbor Mi,130.0,,sachin,pnc,checking
+2023-03-15,Zelle payment to Sachin 16837040555,-1000.0,,nowrin,chase,checking
+2023-03-15,MARKETPLACE - HILL DININ ANN ARBOR MI,-31.02,Education,sachin,discover,credit
+2023-03-15,8810 Debit Card Purchase Fireside Cafe Ann Arb,-3.19,,nowrin,pnc,checking
+2023-03-15,INTEREST PAYMENT,0.01,,nowrin,chase,savings
+2023-03-15,Zelle payment from NOWRIN MOHAMED 16837040555,1000.0,,sachin,chase,checking
+2023-03-16,Online Realtime Transfer to SachinPNC  6272 transaction#: 16837161657 reference#: 9837161657RX 03/16,-1850.0,,sachin,chase,checking
+2023-03-16,THE SEOUL ANN ARBOR MI,-42.81,Restaurants,sachin,discover,credit
+2023-03-16,KROGER 605,-11.24,Groceries,nowrin,chase,credit
+2023-03-16,8810 Debit Card Purchase Panda Express #1124,-9.86,,nowrin,pnc,checking
+2023-03-17,1995 GREAT CLIPS AT PLY ANN ARBOR MI         03/16,-20.0,,sachin,chase,checking
+2023-03-17,SQ *CURRY ON Ann Arbor MI                    03/16,-9.01,,nowrin,chase,checking
+2023-03-17,SQ *BEN & JERRY'S ANN A Ann Arbor MI         03/16,-6.96,,nowrin,chase,checking
+2023-03-20,Online Transfer to CHK ...7386 transaction#: 16867887284 03/20,-2000.0,,sachin,chase,checking
+2023-03-20,Zel To Sachin Salim,-1900.0,,sachin,pnc,checking
+2023-03-20,Payment to Chase card ending in 7345 03/20,-242.39,,nowrin,chase,checking
+2023-03-20,NEEHEES 734-7379777 MI                       03/18,-75.73,,nowrin,chase,checking
+2023-03-20,9132 Debit Card Purchase Zipcar Trip Mar18,-34.98,,sachin,pnc,checking
+2023-03-20,TMOBILE*AUTO PAY 800-937-8997 WA             03/20,-14.54,,nowrin,chase,checking
+2023-03-20,DD DOORDASH EVERGREEN,-14.46,Food & Drink,nowrin,chase,credit
+2023-03-20,9132 Debit Card Purchase Zipcar Extend Mar18,-11.66,,sachin,pnc,checking
+2023-03-20,9132 Recurring Debit Card Doordash Dashpass,-9.99,,sachin,pnc,checking
+2023-03-20,MUJO CAFE,-3.5,Food & Drink,nowrin,chase,credit
+2023-03-20,8810 Recurring Debit Card Apple.Com/Bill,-0.99,,nowrin,pnc,checking
+2023-03-20,Payment Thank You-Mobile,242.39,,nowrin,chase,credit
+2023-03-20,Zelle payment from SACHIN SALIM PNCAA0Ecr89v,1900.0,,sachin,chase,checking
+2023-03-20,Online Transfer from CHK ...5231 transaction#: 16867887284,2000.0,,joint,chase,checking
+2023-03-21,NON-CHASE ATM WITHDRAW               148885  03/2131425 FIV,-203.5,,sachin,chase,checking
+2023-03-21,SQ *FAMOUS CHICKEN CENTER,-21.87,Groceries,nowrin,chase,credit
+2023-03-21,TASTE OF INDIA ANN ARBOR MI                  03/19,-21.61,,nowrin,chase,checking
+2023-03-21,KROGER #605 ANN ARBOR MI,-19.78,Supermarkets,sachin,discover,credit
+2023-03-21,TASTE OF INDIA ANN ARBOR MI                  03/19,-15.85,,nowrin,chase,checking
+2023-03-21,MCDONALD'S F11520 ANN ARBOR MI,-11.96,Restaurants,sachin,discover,credit
+2023-03-21,NON-CHASE ATM FEE-WITH,-3.0,,sachin,chase,checking
+2023-03-22,TASTE OF INDIA ANN ARBOR MI,-38.0,Restaurants,sachin,discover,credit
+2023-03-22,ENTERPRISE RENT-A-CAR,-36.99,Travel,nowrin,chase,credit
+2023-03-22,Online Transfer to CHK ...7386 transaction#: 16888420256 03/22,-30.0,,sachin,chase,checking
+2023-03-22,IHOP #3110 YPSILANTI MI,-23.5,Restaurants,sachin,discover,credit
+2023-03-22,PATEL BROTHERS OF ANN ARB,-8.48,Groceries,nowrin,chase,credit
+2023-03-22,NOOR MINI MART LLC,-7.41,Gas,nowrin,chase,credit
+2023-03-22,NOOR MINI MART LLC,-4.07,Gas,nowrin,chase,credit
+2023-03-22,Online Transfer from CHK ...5231 transaction#: 16888420256,30.0,,joint,chase,checking
+2023-03-23,Online Transfer to CHK ...5231 transaction#: 16895604394 03/23,-2000.0,,joint,chase,checking
+2023-03-23,REMITLY* A66B WWW.REMITLY.C WA               03/23,-1985.0,,sachin,chase,checking
+2023-03-23,Online Transfer to CHK ...7386 transaction#: 16896022243 03/23,-100.0,,nowrin,chase,checking
+2023-03-23,9132 Debit Card Purchase Zipcar Trip Mar23,-20.14,,sachin,pnc,checking
+2023-03-23,9132 Debit Card Purchase Doordash*Desi Ruchulu,-20.02,,sachin,pnc,checking
+2023-03-23,OM MARKET,-12.64,Shopping,nowrin,chase,credit
+2023-03-23,Online Transfer from CHK ...7138 transaction#: 16896022243,100.0,,joint,chase,checking
+2023-03-23,Online Transfer from CHK ...7386 transaction#: 16895604394,2000.0,,sachin,chase,checking
+2023-03-24,IC* INSTACART*161,-20.0,Groceries,nowrin,chase,credit
+2023-03-24,IC* INSTACART*161,-4.01,Groceries,nowrin,chase,credit
+2023-03-24,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,100.54,,joint,chase,checking
+2023-03-25,PANERA BREAD #601105 P,-11.33,Food & Drink,joint,chase,credit
+2023-03-26,MARKETPLACE - HILL DINING,-31.02,Education,joint,chase,credit
+2023-03-26,DD DOORDASH NAMASTEFL,-14.46,Food & Drink,nowrin,chase,credit
+2023-03-26,SQ *THE ANN ARBOR COFFEE,-4.77,Food & Drink,nowrin,chase,credit
+2023-03-26,SNACK SODA VENDING,-3.65,Food & Drink,joint,chase,credit
+2023-03-27,AMTRAK .COM 0860605020392,-80.0,Travel,joint,chase,credit
+2023-03-27,Zelle payment to Rahul ENTR 550 16928861207,-42.56,,joint,chase,checking
+2023-03-27,Zelle payment to Pavan Rahul Friend JPM999ujwfql,-18.0,,joint,chase,checking
+2023-03-27,9132 Recurring Debit Card Google *Google,-1.99,,sachin,pnc,checking
+2023-03-28,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-03-29,ALDO,-71.51,Shopping,joint,chase,credit
+2023-03-29,NEEHEES,-40.24,Food & Drink,joint,chase,credit
+2023-03-29,DD DOORDASH IHOP,-17.35,Food & Drink,joint,chase,credit
+2023-03-29,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-03-29,Zel From Vishnupriya Ramani,26.0,,nowrin,pnc,checking
+2023-03-29,Zel From Shrikant Arvavasu,26.0,,nowrin,pnc,checking
+2023-03-29,Zel From Vishwa Tiwari,56.31,,nowrin,pnc,checking
+2023-03-30,Zipcar Trip MAR29,-20.14,Travel,joint,chase,credit
+2023-03-30,MUJO CAFE,-8.25,Food & Drink,joint,chase,credit
+2023-03-30,USPS PO 2502820113,-4.74,Shopping,joint,chase,credit
+2023-03-31,Autosave SavePerMonth 11373701467,-25.0,,sachin,chase,checking
+2023-03-31,Autosave SavePerMonth 11378415973,-25.0,,nowrin,chase,checking
+2023-03-31,IC* INSTACART,-22.56,Groceries,nowrin,chase,credit
+2023-03-31,PANDA EXPRESS #1124,-9.86,Food & Drink,joint,chase,credit
+2023-03-31,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-03-31,Autosave SavePerMonth 11373701467,25.0,,sachin,chase,savings
+2023-03-31,Autosave SavePerMonth 11378415973,25.0,,nowrin,chase,savings
+2023-03-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1102.48,,sachin,chase,checking
+2023-03-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1108.95,,nowrin,chase,checking
+2023-03-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1500.0,,joint,chase,checking
+2023-03-31,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1500.0,,joint,chase,checking
+2023-04-01,TASTE OF INDIA,-38.45,Food & Drink,joint,chase,credit
+2023-04-01,INTERNET PAYMENT - THANK YOU,1188.11,Payments and Credits,sachin,discover,credit
+2023-04-02,TASTE OF INDIA,-40.0,Food & Drink,joint,chase,credit
+2023-04-03,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-1188.11,,joint,chase,checking
+2023-04-03,Online Transfer to CHK ...7386 transaction#: 16976315075 04/03,-1000.0,,sachin,chase,checking
+2023-04-03,Zelle payment to Smit Kothari 16984780945,-1000.0,,joint,chase,checking
+2023-04-03,Zelle payment to Smit Kothari 16984795332,-1000.0,,joint,chase,checking
+2023-04-03,Online Transfer to  SAV ...2267 transaction#: 16727897306,-250.0,,nowrin,chase,checking
+2023-04-03,Online Transfer to SAV ...2267 transaction#: 16985868994 04/03,-250.0,,nowrin,chase,checking
+2023-04-03,AMZN Mktp US*HY9LW82P2,-233.19,Shopping,joint,chase,credit
+2023-04-03,BLUE MARKET AT PIERPONT,-15.48,Food & Drink,joint,chase,credit
+2023-04-03,8810 Debit Card Purchase Amazon web services,-8.6,,nowrin,pnc,checking
+2023-04-03,Online Transfer from  CHK ...7138 transaction#: 16727897306,250.0,,nowrin,chase,savings
+2023-04-03,Online Transfer from CHK ...7138 transaction#: 16985868994,250.0,,nowrin,chase,savings
+2023-04-03,Online Transfer from CHK ...5231 transaction#: 16976315075,1000.0,,joint,chase,checking
+2023-04-04,Univ of Michigan UMich ePay 430189864       WEB ID: 1364199567,-1318.0,,joint,chase,checking
+2023-04-04,AMZN Mktp US*HS36G3MK0,-614.2,Shopping,joint,chase,credit
+2023-04-04,Online Transfer to CHK ...7386 transaction#: 17006099494 04/04,-500.0,,nowrin,chase,checking
+2023-04-04,Payment to Chase card ending in 7345 04/04,-175.22,,nowrin,chase,checking
+2023-04-04,EXPEDIA 72526292923829,-88.18,Travel,joint,chase,credit
+2023-04-04,AMZN Mktp US*HS4025XI0,-51.89,Shopping,joint,chase,credit
+2023-04-04,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-04-04,Zelle payment from SHAJIL MANNIL PNCAA0Enr76M,13.33,,sachin,chase,checking
+2023-04-04,Payment Thank You-Mobile,175.22,,nowrin,chase,credit
+2023-04-04,Online Transfer from CHK ...7138 transaction#: 17006099494,500.0,,joint,chase,checking
+2023-04-05,DD DOORDASH NOODLESCO,-27.83,Food & Drink,joint,chase,credit
+2023-04-05,DD DOORDASH SHRIMPFLA,-18.9,Food & Drink,joint,chase,credit
+2023-04-05,MUJO CAFE,-3.5,Food & Drink,joint,chase,credit
+2023-04-05,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-04-06,APPLE.COM/US,-104.94,Shopping,joint,chase,credit
+2023-04-06,IC* INSTACART*161,-60.91,Groceries,nowrin,chase,credit
+2023-04-06,IC* INSTACART*161,-25.0,Groceries,nowrin,chase,credit
+2023-04-06,MUJO CAFE,-3.5,Food & Drink,joint,chase,credit
+2023-04-06,IC* INSTACART*161,-3.28,Groceries,nowrin,chase,credit
+2023-04-06,INSTACART CREDIT,10.0,Fees & Adjustments,nowrin,chase,credit
+2023-04-07,AMZN MKTP US*HS9NF90L2 AMZN.COM/BILLWA6S3RVN86IGW,-290.44,Merchandise,sachin,discover,credit
+2023-04-07,TST* CANTINA TAQUERIA,-22.41,Food & Drink,joint,chase,credit
+2023-04-07,AMAZON PRIME*HS34T6XR2 AMZN.COM/BILLWA1DEBFGOW2KA,-7.94,Merchandise,sachin,discover,credit
+2023-04-07,BLUE MARKET AT PIERPONT,-2.5,Food & Drink,joint,chase,credit
+2023-04-07,SNACK SODA VENDING,-1.65,Food & Drink,joint,chase,credit
+2023-04-08,TASTE OF INDIA,-35.34,Food & Drink,joint,chase,credit
+2023-04-08,DD DOORDASH BURGERKIN,-18.81,Food & Drink,joint,chase,credit
+2023-04-09,AMZN MKTP US*HS87N8W61 AMZN.COM/BILLWA3KOYO7S36XA,-63.59,Merchandise,sachin,discover,credit
+2023-04-09,DD DOORDASH BURGERKIN,-15.47,Food & Drink,joint,chase,credit
+2023-04-09,SNACK* AHMOS NORTH CAM,-10.59,Food & Drink,joint,chase,credit
+2023-04-09,AMAZON.COM*HJ01E6EB0 AMZN.COM/BILLWA6768TC3NXYI,-7.41,Merchandise,sachin,discover,credit
+2023-04-09,SQ *SWEETWATERS COFFEE &amp;,-4.4,Food & Drink,joint,chase,credit
+2023-04-09,MUJO CAFE,-3.95,Food & Drink,joint,chase,credit
+2023-04-10,8810 Recurring Debit Card Apple.Com/Bill,-42.39,,nowrin,pnc,checking
+2023-04-10,Zelle payment to QIQI 17049170860,-29.0,,nowrin,chase,checking
+2023-04-10,Zelle payment to Priya Canteen JPM999v2c3bx,-20.0,,joint,chase,checking
+2023-04-10,SLURPING TURTLE - ANN 630-7888805 MI         04/08,-15.84,,joint,chase,checking
+2023-04-10,DD DOORDASH TASTEOFIN,-13.64,Food & Drink,joint,chase,credit
+2023-04-10,SNACK* MOGE TEE (ANN A,-10.8,Food & Drink,joint,chase,credit
+2023-04-10,Zelle payment to Sunmeetg JPM999v4a1e1,-5.35,,sachin,chase,checking
+2023-04-10,SNACK SODA VENDING ANN ARBOR MI              04/07,-1.65,,joint,chase,checking
+2023-04-11,QAHWAH HOUSE II,-34.98,Food & Drink,joint,chase,credit
+2023-04-11,KROGER 605,-24.71,Groceries,joint,chase,credit
+2023-04-11,DD DOORDASH SHRIMPFLA,-16.68,Food & Drink,joint,chase,credit
+2023-04-11,PANDA EXPRESS #1124,-11.45,Food & Drink,joint,chase,credit
+2023-04-11,Zipcar Trip APR11,-11.4,Travel,joint,chase,credit
+2023-04-11,AMZN Mktp US,24.37,Shopping,joint,chase,credit
+2023-04-11,Zelle payment from VIBHOR GUPTA PNCAA0EsN31G,52.0,,sachin,chase,checking
+2023-04-12,DD DOORDASH IHOP,-38.01,Food & Drink,joint,chase,credit
+2023-04-12,Zelle payment to Ruchika 17066848668,-5.0,,joint,chase,checking
+2023-04-12,AMTRAK MIDWEST CAFE  Q12,-2.25,Food & Drink,joint,chase,credit
+2023-04-13,UBER   TRIP,-30.23,Travel,joint,chase,credit
+2023-04-13,DD DOORDASH THALAIVAS,-19.71,Food & Drink,joint,chase,credit
+2023-04-13,L2G*METRA UNION STATION ¦,-12.5,Travel,joint,chase,credit
+2023-04-13,9132 Debit Card Purchase Uber Help.Uber.C,-9.92,,sachin,pnc,checking
+2023-04-13,UBER   TRIP,-7.01,Travel,joint,chase,credit
+2023-04-17,DOORDASH DASHPASS,-9.99,Food & Drink,joint,chase,credit
+2023-04-17,GREG MAT WWW.GREGMAT.C CA                    04/16,-5.0,,sachin,chase,checking
+2023-04-17,INTEREST PAYMENT,0.01,,nowrin,chase,savings
+2023-04-20,TMOBILE*AUTO PAY 800-937-8997 WA             04/20,-160.22,,nowrin,chase,checking
+2023-04-20,Online Transfer to CHK ...7138 transaction#: 17136760709 04/20,-30.0,,joint,chase,checking
+2023-04-20,Online Transfer from CHK ...7386 transaction#: 17136760709,30.0,,nowrin,chase,checking
+2023-04-21,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,100.54,,joint,chase,checking
+2023-04-22,UBER   PASS,-9.99,Travel,nowrin,chase,credit
+2023-04-25,GOOGLE *Google Storage,-1.99,Shopping,joint,chase,credit
+2023-04-25,STATEOFMICHIGAN  PMT/REFUND                 PPD ID: 014-INCTAX,48.0,,nowrin,chase,checking
+2023-04-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1168.63,,sachin,chase,checking
+2023-04-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1175.1,,nowrin,chase,checking
+2023-04-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1500.0,,joint,chase,checking
+2023-04-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1500.0,,joint,chase,checking
+2023-05-01,Payment to Chase card ending in 7345 05/01,-89.18,,joint,chase,checking
+2023-05-01,Autosave SavePerMonth 11384992274,-25.0,,sachin,chase,checking
+2023-05-01,Autosave SavePerMonth 11385149626,-25.0,,nowrin,chase,checking
+2023-05-01,Autosave SavePerMonth 11384992274,25.0,,sachin,chase,savings
+2023-05-01,Autosave SavePerMonth 11385149626,25.0,,nowrin,chase,savings
+2023-05-01,Payment Thank You-Mobile,89.18,,nowrin,chase,credit
+2023-05-02,Univ of Michigan UMich ePay 430230726       WEB ID: 1364199567,-1318.0,,joint,chase,checking
+2023-05-03,Zelle payment to Smit Kothari 17254520536,-1500.0,,joint,chase,checking
+2023-05-03,Zelle payment to Smit Kothari 17254509251,-500.0,,nowrin,chase,checking
+2023-05-03,Online Transfer to  SAV ...2267 transaction#: 16991532655,-250.0,,nowrin,chase,checking
+2023-05-03,8810 Debit Card Purchase Amazon web,-8.6,,nowrin,pnc,checking
+2023-05-03,Online Transfer from  CHK ...7138 transaction#: 16991532655,250.0,,nowrin,chase,savings
+2023-05-03,INTERNET PAYMENT - THANK YOU,465.45,Payments and Credits,sachin,discover,credit
+2023-05-04,Online Transfer to CHK ...7386 transaction#: 17264541636 05/04,-1350.0,,sachin,chase,checking
+2023-05-04,Online Transfer to CHK ...7386 transaction#: 17270209063 05/04,-1000.0,,nowrin,chase,savings
+2023-05-04,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-465.45,,joint,chase,checking
+2023-05-04,Online Transfer from SAV ...2267 transaction#: 17270209063,1000.0,,joint,chase,checking
+2023-05-04,Online Transfer from CHK ...5231 transaction#: 17264541636,1350.0,,joint,chase,checking
+2023-05-05,AUTOMATIC PAYMENT - THANK,1518.53,,joint,chase,credit
+2023-05-07,AMAZON PRIME*VU3202FU3 AMZN.COM/BILLWA6QY3GHUD3SF,-7.94,Merchandise,sachin,discover,credit
+2023-05-08,CHASE CREDIT CRD AUTOPAY                    PPD ID: 4760039224,-1518.53,,joint,chase,checking
+2023-05-11,AMTRAK MOBIL1310615107168,-80.0,Travel,joint,chase,credit
+2023-05-13,MCDONALD'S F12785,-23.02,Food & Drink,joint,chase,credit
+2023-05-13,MCDONALD'S F12785,-4.47,Food & Drink,joint,chase,credit
+2023-05-15,CARPENTERS BROTHERS HARDW,-52.05,Automotive,joint,chase,credit
+2023-05-15,DD DOORDASH PANERABRE,-24.01,Food & Drink,joint,chase,credit
+2023-05-15,IC* INSTACART*161,-20.46,Groceries,nowrin,chase,credit
+2023-05-15,Zipcar Trip MAY15,-20.14,Travel,joint,chase,credit
+2023-05-15,DD DOORDASH SHRIMPFLA,-16.68,Food & Drink,joint,chase,credit
+2023-05-15,Zelle payment to YEN-LEN 17363336240,-16.0,,joint,chase,checking
+2023-05-15,UBER   TRIP HELP.UBER.COM CA                 05/14,-11.69,,nowrin,chase,checking
+2023-05-15,Zipcar Extend MAY15,-5.04,Travel,joint,chase,credit
+2023-05-15,MARKET@WORK 2067379149,-1.79,Food & Drink,joint,chase,credit
+2023-05-15,INTEREST PAYMENT,0.01,,nowrin,chase,savings
+2023-05-16,PATEL BROTHERS OF ANN ARB,-88.99,Groceries,joint,chase,credit
+2023-05-16,SPEEDWAY 08708 ANN ARBOR,-11.95,Gas,joint,chase,credit
+2023-05-16,PANDA EXPRESS #1124,-9.86,Food & Drink,joint,chase,credit
+2023-05-16,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-16,GREG MAT WWW.GREGMAT.C CA                    05/16,-5.0,,sachin,chase,checking
+2023-05-16,University of Mi P2P PAYMNT Prithwish Ghosh WEB ID: 9000071008,200.0,,nowrin,chase,checking
+2023-05-17,Zelle payment to ZHENHUA 17380857166,-190.0,,joint,chase,checking
+2023-05-17,DD DOORDASH ITALIANPE,-36.18,Food & Drink,joint,chase,credit
+2023-05-17,AMZN Mktp US*501UB90E3,-27.97,Shopping,joint,chase,credit
+2023-05-17,Amazon.com*KY0Z49FG3,-21.09,Shopping,joint,chase,credit
+2023-05-17,Zipcar Trip MAY17,-17.1,Travel,joint,chase,credit
+2023-05-17,KROGER 605,-12.29,Groceries,joint,chase,credit
+2023-05-17,UBER   TRIP,-11.97,Travel,joint,chase,credit
+2023-05-17,DOORDASH DASHPASS,-9.99,Food & Drink,joint,chase,credit
+2023-05-17,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-17,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-05-18,Zipcar Extend MAY17,-11.39,Travel,joint,chase,credit
+2023-05-19,KROGER 605,-20.73,Groceries,joint,chase,credit
+2023-05-19,OM MARKET,-11.98,Groceries,joint,chase,credit
+2023-05-19,Zipcar Trip MAY19,-11.4,Travel,joint,chase,credit
+2023-05-20,AMZN Mktp US*EF9GM5G93,-21.19,Shopping,joint,chase,credit
+2023-05-20,Amazon Prime*CP3C49BK3,-7.94,Bills & Utilities,joint,chase,credit
+2023-05-20,Zipcar Extend MAY19,-5.7,Travel,joint,chase,credit
+2023-05-20,Hulu 877-8244858 CA,-1.99,Bills & Utilities,joint,chase,credit
+2023-05-21,KROGER 605,-60.85,Groceries,joint,chase,credit
+2023-05-22,TMOBILE*AUTO PAY 800-937-8997 WA             05/20,-166.83,,nowrin,chase,checking
+2023-05-22,WALMART.COM 800-966-6546 AR                  05/19,-40.26,,nowrin,chase,checking
+2023-05-22,AMZN Mktp US*OK2P80LG3,-33.6,Shopping,joint,chase,credit
+2023-05-22,KROGER 605,-19.11,Groceries,joint,chase,credit
+2023-05-22,DD DOORDASH NAMASTEFL,-17.68,Food & Drink,joint,chase,credit
+2023-05-22,SPEEDWAY 08708 ANN ARBOR,-15.94,Gas,joint,chase,credit
+2023-05-22,Zipcar Trip MAY22,-10.07,Travel,joint,chase,credit
+2023-05-22,MARKET@WORK 2067379149,-5.68,Food & Drink,joint,chase,credit
+2023-05-22,Zelle payment to ZHENHUA 17405030447,-3.0,,joint,chase,checking
+2023-05-22,AMAZON PRIME AMZN.COM/BILLWA6UGOOMP8N6E,7.94,Payments and Credits,sachin,discover,credit
+2023-05-22,AMZN Mktp US,21.19,Shopping,joint,chase,credit
+2023-05-22,Zel From Vishnupriya Ramani,62.16,,nowrin,pnc,checking
+2023-05-23,Univ of Michigan UMich ePay 430248150       WEB ID: 1364199567,-163.69,,joint,chase,checking
+2023-05-23,MICHIGAN FLYER  L.L.C.,-50.0,Travel,joint,chase,credit
+2023-05-24,AMZN Mktp US*RZ0LM4UO3,-17.99,Shopping,joint,chase,credit
+2023-05-24,KROGER 605,-8.99,Groceries,joint,chase,credit
+2023-05-25,LinkedIn Pre 8331585536,-39.99,Bills & Utilities,nowrin,chase,credit
+2023-05-25,SQ *BLANK SLATE CREAMERY,-19.25,Food & Drink,joint,chase,credit
+2023-05-25,DD DOORDASH TASTEOFIN,-17.76,Food & Drink,joint,chase,credit
+2023-05-25,GOOGLE *Google Storage,-1.99,Bills & Utilities,joint,chase,credit
+2023-05-25,Zel From Shrikant Arvavasu,62.14,,nowrin,pnc,checking
+2023-05-26,MARKET@WORK 2067379149,-1.49,Food & Drink,joint,chase,credit
+2023-05-26,BLFD Main        Single                     PPD ID: 1261656249,580.0,,nowrin,chase,checking
+2023-05-27,ARGO CANOE LIVERY,-30.0,Shopping,joint,chase,credit
+2023-05-27,KROGER 605,-15.7,Groceries,joint,chase,credit
+2023-05-28,Zipcar Trip MAY28,-29.15,Travel,joint,chase,credit
+2023-05-28,IC* INSTACART*161,-17.27,Groceries,nowrin,chase,credit
+2023-05-28,DD DOORDASH NAMASTEFL,-16.68,Food & Drink,joint,chase,credit
+2023-05-28,WILLOW TV,-9.99,Shopping,joint,chase,credit
+2023-05-29,STUBHUB  INC.,-810.95,Entertainment,joint,chase,credit
+2023-05-29,LYFT   *RIDE SAT 1PM,-9.99,Travel,joint,chase,credit
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17477606709 05/30,-1000.0,,nowrin,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17477611275 05/30,-500.0,,nowrin,chase,savings
+2023-05-30,Payment to Chase card ending in 6611 05/30,-342.78,,joint,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17481575099 05/30,-250.0,,nowrin,chase,savings
+2023-05-30,Zelle payment to Ruchika 17466779879,-48.0,,joint,chase,checking
+2023-05-30,Online Transfer to CHK ...7386 transaction#: 17481576343 05/30,-30.0,,sachin,chase,checking
+2023-05-30,Online Transfer from CHK ...5231 transaction#: 17481576343,30.0,,joint,chase,checking
+2023-05-30,Online Transfer from SAV ...2267 transaction#: 17481575099,250.0,,joint,chase,checking
+2023-05-30,Payment Thank You - Web,342.78,,joint,chase,credit
+2023-05-30,Online Transfer from SAV ...2267 transaction#: 17477611275,500.0,,joint,chase,checking
+2023-05-30,Online Transfer from CHK ...7138 transaction#: 17477606709,1000.0,,joint,chase,checking
+2023-05-31,Univ of Michigan UMich ePay 430252060       WEB ID: 1364199567,-1508.69,,joint,chase,checking
+2023-05-31,WPY*One World Lantern Fes,-33.95,Entertainment,joint,chase,credit
+2023-05-31,WPY*One World Lantern Fes,-33.95,Entertainment,joint,chase,credit
+2023-05-31,TST* Frita Batidos - Detr,-10.6,Food & Drink,joint,chase,credit
+2023-05-31,MARKET@WORK 2067379149,-1.39,Food & Drink,joint,chase,credit
+2023-06-01,KROGER 605,-23.8,Groceries,joint,chase,credit
+2023-06-01,DD DOORDASH MARCOSPIZ,-15.9,Food & Drink,joint,chase,credit
+2023-06-01,TST* Jojos Shake Bar - D,-15.88,Food & Drink,joint,chase,credit
+2023-06-01,PATEL BROTHERS OF ANN ARB,-12.25,Groceries,joint,chase,credit
+2023-06-01,KROGER 605,-4.69,Groceries,joint,chase,credit
+2023-06-01,TST* PICASSO NCRC,-2.99,Food & Drink,joint,chase,credit
+2023-06-01,MARKET@WORK 2067379149,-2.29,Food & Drink,joint,chase,credit
+2023-06-02,Zelle payment to Smit Kothari 17521925843,-606.72,,joint,chase,checking
+2023-06-02,Online Transfer to CHK ...5231 transaction#: 17521837005 06/02,-50.0,,joint,chase,checking
+2023-06-02,DOORDASH DASHPASS,-4.99,Food & Drink,joint,chase,credit
+2023-06-02,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-02,Online Transfer from CHK ...7386 transaction#: 17521837005,50.0,,sachin,chase,checking
+2023-06-02,INTERNET PAYMENT - THANK YOU,71.0,Payments and Credits,sachin,discover,credit
+2023-06-02,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,973.4,,joint,chase,checking
+2023-06-03,FRONTIER AI SHNH4X,-531.92,Travel,joint,chase,credit
+2023-06-03,SPEEDWAY 08708 ANN ARBOR ANN ARBOR MI,-31.69,Gasoline,sachin,discover,credit
+2023-06-03,TST* LIVE NIGHTCLUB,-28.0,Food & Drink,joint,chase,credit
+2023-06-03,SQ *MAGIC SPICE - VEGE WARREN MI0002305843017725053680,-17.44,Restaurants,sachin,discover,credit
+2023-06-03,TARGET        00006114,-16.83,Shopping,joint,chase,credit
+2023-06-03,SQ *FAMOUS CHICKEN CENTER,-13.62,Groceries,joint,chase,credit
+2023-06-03,SQ *WATER LANTERN FEST MILFORD MI0002305843017725013889,-10.0,Travel/ Entertainment,sachin,discover,credit
+2023-06-03,SQ *MAGIC SPICE - VEGE WARREN MI0002305843017725038704,-6.54,Restaurants,sachin,discover,credit
+2023-06-03,CSC SERVICEWORK ANN ARBOR MI,-2.0,Restaurants,sachin,discover,credit
+2023-06-03,CSC SERVICEWORK ANN ARBOR MI,-2.0,Restaurants,sachin,discover,credit
+2023-06-04,TASTE OF INDIA,-25.33,Food & Drink,joint,chase,credit
+2023-06-05,AIRBNB HMK2QXS3T2 855-424-7262 CA,-644.77,Travel/ Entertainment,sachin,discover,credit
+2023-06-05,Online Transfer to  SAV ...2267 transaction#: 17253273832,-250.0,,nowrin,chase,checking
+2023-06-05,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-71.0,,joint,chase,checking
+2023-06-05,UBER   PASS,-9.99,Travel,nowrin,chase,credit
+2023-06-05,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-05,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-05,BLFD Main        Single                     PPD ID: 1261656249,237.45,,nowrin,chase,checking
+2023-06-05,Online Transfer from  CHK ...7138 transaction#: 17253273832,250.0,,nowrin,chase,savings
+2023-06-05,Cash Redemption,336.92,,joint,chase,checking
+2023-06-05,BLFD Main        Single                     PPD ID: 1261656249,356.17,,joint,chase,checking
+2023-06-06,DESI RUCHULU ANN ARBOR MI,-28.6,Restaurants,sachin,discover,credit
+2023-06-06,DEPOSIT  ID NUMBER  41889,15.94,,joint,chase,checking
+2023-06-07,JCPENNEY 0819 ANN ARBOR MI,-71.01,Department Stores,sachin,discover,credit
+2023-06-07,JCPENNEY 0819 ANN ARBOR MI,-37.09,Department Stores,sachin,discover,credit
+2023-06-07,MACYS BRIARWOOD ANN ARBOR MI,-20.91,Department Stores,sachin,discover,credit
+2023-06-07,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-07,MACYS BRIARWOOD ANN ARBOR MI,20.91,Payments and Credits,sachin,discover,credit
+2023-06-08,LEFTYS DETROIT,-11.65,Food & Drink,joint,chase,credit
+2023-06-08,VENMO            PAYMENT    1027481481488   WEB ID: 3264681992,-10.0,,nowrin,chase,checking
+2023-06-08,Zelle payment to Ruchika Nalabotala 17571985450,-9.27,,sachin,chase,checking
+2023-06-08,DOMINO'S 1100,-8.47,Food & Drink,joint,chase,credit
+2023-06-08,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-09,KROGER 605,-42.17,Groceries,joint,chase,credit
+2023-06-09,QAHWAH HOUSE,-13.78,Food & Drink,joint,chase,credit
+2023-06-09,OM MARKET,-8.99,Groceries,joint,chase,credit
+2023-06-09,QAHWAH HOUSE DEARBORN MI,-5.3,Restaurants,sachin,discover,credit
+2023-06-09,BLFD Main        Single                     PPD ID: 1261656249,54.88,,nowrin,chase,checking
+2023-06-09,BLFD Main        Single                     PPD ID: 1261656249,82.32,,joint,chase,checking
+2023-06-10,BP#9260936COLONIAL BP ANN ARBOR MI,-32.97,Gasoline,sachin,discover,credit
+2023-06-11,IMMIGRATION CANADA ONLINE,-277.97,Bills & Utilities,nowrin,chase,credit
+2023-06-11,UBER   PASS,9.99,Travel,nowrin,chase,credit
+2023-06-12,FOREIGN TRANSACTION FEE,-8.33,Fees & Adjustments,nowrin,chase,credit
+2023-06-12,PNCBANK_XTRANSFR ACCTVERIFY 7252403157      WEB ID: 3770527921,-0.89,,nowrin,chase,checking
+2023-06-12,PNCBANK_XTRANSFR ACCTVERIFY                 PPD ID: 1770527921,0.44,,nowrin,chase,checking
+2023-06-12,PNCBANK_XTRANSFR ACCTVERIFY                 PPD ID: 1770527921,0.45,,nowrin,chase,checking
+2023-06-12,BLFD Main        Single                     PPD ID: 1261656249,239.15,,nowrin,chase,checking
+2023-06-12,BLFD Main        Single                     PPD ID: 1261656249,358.72,,joint,chase,checking
+2023-06-13,KROGER 605,-7.07,Groceries,joint,chase,credit
+2023-06-14,MONTHLY SERVICE FEE,-12.0,,sachin,chase,checking
+2023-06-14,MONTHLY SERVICE FEE,-5.0,,sachin,chase,savings
+2023-06-15,PARADISE BIRYANI POINTE FARMINGTON HIMI,-20.65,Restaurants,sachin,discover,credit
+2023-06-15,Payment Thank You-Mobile,1000.0,,joint,chase,credit
+2023-06-16,Payment to Chase card ending in 6611 06/16,-1000.0,,joint,chase,checking
+2023-06-16,AIRBNB HMKRM9B5QB 855-424-7262 CA,-108.11,Travel/ Entertainment,sachin,discover,credit
+2023-06-16,IC* INSTACART*SUBSCRIP,-99.0,Groceries,nowrin,chase,credit
+2023-06-16,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-06-16,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-16,BLFD Main        Single                     PPD ID: 1261656249,118.73,,nowrin,chase,checking
+2023-06-16,BLFD Main        Single                     PPD ID: 1261656249,474.9,,joint,chase,checking
+2023-06-16,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,1198.66,,joint,chase,checking
+2023-06-17,IHOP #3110 YPSILANTI MI,-31.86,Restaurants,sachin,discover,credit
+2023-06-17,SQ *NECTO LLC,-20.8,Food & Drink,joint,chase,credit
+2023-06-17,DOORDASH DASHPASS,-9.99,Food & Drink,joint,chase,credit
+2023-06-17,IC* INSTACART*SUBSCRIP,99.0,Groceries,nowrin,chase,credit
+2023-06-18,TASTE OF INDIA ANN ARBOR MI,-19.61,Restaurants,sachin,discover,credit
+2023-06-18,UBER   TRIP,-17.85,Travel,joint,chase,credit
+2023-06-18,DOORDASH DASHPASS,2.22,Food & Drink,joint,chase,credit
+2023-06-19,WWW.RIHOAS.COM,-32.0,Shopping,nowrin,chase,credit
+2023-06-19,KROGER 605,-25.63,Groceries,nowrin,chase,credit
+2023-06-19,BURGER 1 ANN ARBOR MI,-10.59,Restaurants,sachin,discover,credit
+2023-06-20,Payment to Chase card ending in 6611 06/20,-500.0,,joint,chase,checking
+2023-06-20,TMOBILE*AUTO PAY,-149.21,Bills & Utilities,joint,chase,credit
+2023-06-20,SPEEDWAY 08708 ANN ARBOR ANN ARBOR MI,-30.16,Gasoline,sachin,discover,credit
+2023-06-20,STARBUCKS STORE 15010,-9.75,Food & Drink,joint,chase,credit
+2023-06-20,Amazon Prime*9G5Y98O53,-7.94,Bills & Utilities,joint,chase,credit
+2023-06-20,KROGER 605,-7.34,Groceries,joint,chase,credit
+2023-06-20,GREG MAT WWW.GREGMAT.C CA                    06/16,-5.0,,sachin,chase,checking
+2023-06-20,Hulu 877-8244858 CA,-1.99,Bills & Utilities,joint,chase,credit
+2023-06-20,Cash Redemption,60.94,,joint,chase,checking
+2023-06-20,Payment Thank You-Mobile,500.0,,joint,chase,credit
+2023-06-21,Web Pmt- Transfer Chasbk Ck Webxfr,-181.41,,nowrin,pnc,checking
+2023-06-21,ROYAL OAK MPS,-2.0,Travel,nowrin,chase,credit
+2023-06-21,ROYAL OAK MPS,-1.25,Travel,nowrin,chase,credit
+2023-06-22,KROGER #605 ANN ARBOR MIGOOGLE PAY ENDING IN 7253,-25.95,Supermarkets,sachin,discover,credit
+2023-06-22,MAIN PARTY STORE,-25.65,Food & Drink,joint,chase,credit
+2023-06-22,MAIN PARTY STORE,-16.01,Food & Drink,joint,chase,credit
+2023-06-23,Zelle payment to Smit Kothari 17698122671,-1495.0,,joint,chase,checking
+2023-06-23,Online Transfer to CHK ...7386 transaction#: 17700474703 06/23,-500.0,,nowrin,chase,checking
+2023-06-23,Payment to Chase card ending in 6611 06/23,-300.0,,joint,chase,checking
+2023-06-23,Payment to Chase card ending in 6611 06/23,-200.0,,joint,chase,checking
+2023-06-23,PSM*PIONEERSTMUTUALINS,-103.67,Bills & Utilities,nowrin,chase,credit
+2023-06-23,TST* PICASSO NCRC ANN ARBOR MI,-11.65,Restaurants,sachin,discover,credit
+2023-06-23,PNCBK CK WEBXFR  P2P        NOWRIN . MOHAME WEB ID: 1770527921,181.41,,nowrin,chase,checking
+2023-06-23,Payment Thank You - Web,200.0,,joint,chase,credit
+2023-06-23,Payment Thank You - Web,300.0,,joint,chase,credit
+2023-06-23,Online Transfer from CHK ...7138 transaction#: 17700474703,500.0,,joint,chase,checking
+2023-06-24,SPEEDWAY 08708 ANN ARBOR ANN ARBOR MI,-35.21,Gasoline,sachin,discover,credit
+2023-06-24,LEETCODE.COM,-35.0,Shopping,nowrin,chase,credit
+2023-06-24,DD DOORDASH NAMASTEFL,-16.68,Food & Drink,joint,chase,credit
+2023-06-24,INTERNET PAYMENT - THANK YOU,200.0,Payments and Credits,sachin,discover,credit
+2023-06-25,LINKEDIN PRE*429995306,-39.99,Bills & Utilities,nowrin,chase,credit
+2023-06-25,1995 GREAT CLIPS AT PLYMO,-22.0,Personal,joint,chase,credit
+2023-06-25,KROGER #605 ANN ARBOR MI,-20.66,Supermarkets,sachin,discover,credit
+2023-06-25,TASTE OF INDIA ANN ARBOR MI,-19.61,Restaurants,sachin,discover,credit
+2023-06-25,GOOGLE *Google Storage,-1.99,Shopping,joint,chase,credit
+2023-06-26,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-200.0,,joint,chase,checking
+2023-06-26,AIRBNB HMKRM9B5QB 855-424-7262 CA,-27.02,Travel/ Entertainment,sachin,discover,credit
+2023-06-26,AIRBNB HMKRM9B5QB 8004405103 CA,27.02,Payments and Credits,sachin,discover,credit
+2023-06-26,Payment Thank You-Mobile,200.0,,nowrin,chase,credit
+2023-06-26,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,203.8,,sachin,chase,checking
+2023-06-26,BLFD Main        Single                     PPD ID: 1261656249,300.33,,joint,chase,checking
+2023-06-26,BLFD Main        Single                     PPD ID: 1261656249,300.34,,nowrin,chase,checking
+2023-06-27,Payment to Chase card ending in 7345 06/27,-200.0,,joint,chase,checking
+2023-06-27,AIRBNB  HMHDNED9C3,-150.73,Travel,joint,chase,credit
+2023-06-27,PATEL BROTHERS OF ANN AR ANN ARBOR MI,-19.88,Supermarkets,sachin,discover,credit
+2023-06-27,WENDYS 3824,-15.23,Food & Drink,joint,chase,credit
+2023-06-27,KROGER 605,-10.23,Groceries,joint,chase,credit
+2023-06-28,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-06-29,DD DOORDASH NAMASTEFL,-16.68,Food & Drink,joint,chase,credit
+2023-06-30,Autosave SavePerMonth 11408544919,-25.0,,sachin,chase,checking
+2023-06-30,Autosave SavePerMonth 11408653128,-25.0,,nowrin,chase,checking
+2023-06-30,DD DOORDASH TASTEOFIN,-18.55,Food & Drink,joint,chase,credit
+2023-06-30,DOMESTIC INCOMING WIRE FEE,-15.0,,nowrin,chase,checking
+2023-06-30,7-ELEVEN 35775 ANN ARBOR MI,-8.95,Gasoline,sachin,discover,credit
+2023-06-30,KROGER #605 ANN ARBOR MI,-4.28,Supermarkets,sachin,discover,credit
+2023-06-30,Autosave SavePerMonth 11408544919,25.0,,sachin,chase,savings
+2023-06-30,Autosave SavePerMonth 11408653128,25.0,,nowrin,chase,savings
+2023-06-30,Zelle payment from VISHNUPRIYA RAMANI PNCAA0Fwa01T,30.63,,sachin,chase,checking
+2023-06-30,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,447.96,,sachin,chase,checking
+2023-06-30,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,800.0,,joint,chase,checking
+2023-06-30,FEDWIRE CREDIT VIA: MORGAN STANLEY PRIVATE BANK NA/056073573 B/O: NOWRIN MOHAMED ANN ARBOR MI 48105 REF: CHASE NYC/CTR/BNF=NOWRIN MOHAMED ANN ARBOR MI 48105-2535 US/AC-0000000 08883 RFB=O/B ETRADE BANK IMAD: 0630E6B7361C005215 TRN: 0867460181FF,4790.01,,nowrin,chase,checking
+2023-07-01,SQ *TROPICAL NAILS &amp; SPA,-63.0,Personal,nowrin,chase,credit
+2023-07-01,JCPENNEY 0819 ANN ARBOR MI,-40.26,Department Stores,sachin,discover,credit
+2023-07-01,GOODWILL IND - YPSILANTI,-26.77,Gifts & Donations,joint,chase,credit
+2023-07-01,KROGER FUEL 9689,-16.0,Gas,joint,chase,credit
+2023-07-01,CVS/PHARMACY #08006 ANN ARBOR MI,-13.68,Merchandise,sachin,discover,credit
+2023-07-01,KROGER #689 YPSILANTI MI,-1.33,Supermarkets,sachin,discover,credit
+2023-07-01,JCPENNEY 0819 ANN ARBOR MI,51.94,Payments and Credits,sachin,discover,credit
+2023-07-01,Payment Thank You-Mobile,173.92,,nowrin,chase,credit
+2023-07-01,Payment Thank You-Mobile,229.64,,nowrin,chase,credit
+2023-07-01,INTERNET PAYMENT - THANK YOU,1059.38,Payments and Credits,sachin,discover,credit
+2023-07-01,Payment Thank You-Mobile,1162.13,,joint,chase,credit
+2023-07-02,HOLIDAY STATIONS 0416 WETMORE MI,-33.47,Gasoline,sachin,discover,credit
+2023-07-02,MARATHON PETRO178590 WATERS MI,-30.95,Gasoline,sachin,discover,credit
+2023-07-02,TAHQUAMENON STATE PARK,-18.0,Bills & Utilities,joint,chase,credit
+2023-07-02,HOLIDAY STATIONS 0155 MUNISING MI,-8.99,Gasoline,sachin,discover,credit
+2023-07-02,HOLIDAY STATIONS 0416,-3.99,Gas,joint,chase,credit
+2023-07-02,CSC SERVICEWORK,-2.0,Food & Drink,joint,chase,credit
+2023-07-03,Online Transfer to CHK ...7386 transaction#: 17769680403 07/03,-2200.0,,nowrin,chase,checking
+2023-07-03,Payment to Chase card ending in 6611 07/03,-1162.13,,joint,chase,checking
+2023-07-03,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-1059.38,,joint,chase,checking
+2023-07-03,Online Transfer to  SAV ...2267 transaction#: 17514351335,-250.0,,nowrin,chase,checking
+2023-07-03,Payment to Chase card ending in 7345 07/03,-229.64,,nowrin,chase,checking
+2023-07-03,Payment to Chase card ending in 6562 07/03,-173.92,,nowrin,chase,checking
+2023-07-03,SCOTTYS MOTEL,-134.4,Travel,joint,chase,credit
+2023-07-03,TST* FALLING ROCK CAFE MUNISING MI00057257012512427080AA,-21.2,Restaurants,sachin,discover,credit
+2023-07-03,HOLIDAY STATIONS 0155 MUNISING MI,-14.98,Gasoline,sachin,discover,credit
+2023-07-03,Subway 15159,-13.23,Food & Drink,joint,chase,credit
+2023-07-03,PICTURED ROCKS CRUISES -,-6.35,Shopping,joint,chase,credit
+2023-07-03,MINERS PASTIES LLC MUNISING MI,-5.83,Restaurants,sachin,discover,credit
+2023-07-03,TRENARY MINI-MART TRENARY MI,-3.86,Gasoline,sachin,discover,credit
+2023-07-03,Online Transfer from  CHK ...7138 transaction#: 17514351335,250.0,,nowrin,chase,savings
+2023-07-03,BLFD Main        Single                     PPD ID: 1261656249,287.15,,joint,chase,checking
+2023-07-03,BLFD Main        Single                     PPD ID: 1261656249,287.16,,nowrin,chase,checking
+2023-07-03,Online Transfer from CHK ...7138 transaction#: 17769680403,2200.0,,joint,chase,checking
+2023-07-04,SUPER 8 MOTELS,-77.97,Travel,joint,chase,credit
+2023-07-04,CHINA LILY,-38.97,Food & Drink,joint,chase,credit
+2023-07-04,Forever 21,-31.58,Shopping,nowrin,chase,credit
+2023-07-04,TASTE OF INDIA,-19.53,Food & Drink,joint,chase,credit
+2023-07-04,WALMART SC 01453 GREEN BAY WI,-16.93,Merchandise,sachin,discover,credit
+2023-07-04,ECO FUELS ESCANABA MI,-15.91,Gasoline,sachin,discover,credit
+2023-07-04,TACO BELL #033430,-13.32,Food & Drink,joint,chase,credit
+2023-07-04,WALGREENS #3133,-13.18,Health & Wellness,joint,chase,credit
+2023-07-05,Univ of Michigan UMich ePay 430279460       WEB ID: 1364199567,-1577.69,,nowrin,chase,checking
+2023-07-05,Univ of Michigan UMich ePay 430279788       WEB ID: 1364199567,-190.69,,joint,chase,checking
+2023-07-05,INDIA BHAVAN GREEN BAY WI,-40.0,Restaurants,sachin,discover,credit
+2023-07-05,SHELL10015502007 GREEN BAY WI,-31.09,Gasoline,sachin,discover,credit
+2023-07-05,SPEEDWAY 06604 MATTAWAN MATTAWAN MI,-30.67,Gasoline,sachin,discover,credit
+2023-07-05,STARBUCKS STORE 21357,-10.54,Food & Drink,joint,chase,credit
+2023-07-05,SPEEDWAY 06604 MATTAWAN MATTAWAN MI,-10.17,Gasoline,sachin,discover,credit
+2023-07-06,Payment to Chase card ending in 7345 07/06,-31.58,,joint,chase,checking
+2023-07-06,SQ *CURRY ON ANN ARBOR MI0002305843017938129431,-22.26,Restaurants,sachin,discover,credit
+2023-07-06,Payment Thank You-Mobile,31.58,,nowrin,chase,credit
+2023-07-06,INTERNET PAYMENT - THANK YOU,208.68,Payments and Credits,sachin,discover,credit
+2023-07-06,Payment Thank You - Web,310.97,,joint,chase,credit
+2023-07-07,Payment to Chase card ending in 6611 07/07,-310.97,,joint,chase,checking
+2023-07-07,SQ *CURRY ON ANN ARBOR MI0002305843017944594940,-35.77,Restaurants,sachin,discover,credit
+2023-07-08,Payment Thank You-Mobile,63.0,,nowrin,chase,credit
+2023-07-08,INTERNET PAYMENT - THANK YOU,94.19,Payments and Credits,sachin,discover,credit
+2023-07-08,Payment Thank You-Mobile,101.83,,joint,chase,credit
+2023-07-10,Zelle payment to NIKITHA 17847108602,-600.0,,nowrin,chase,checking
+2023-07-10,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-208.68,,joint,chase,checking
+2023-07-10,ATM WITHDRAWAL                       000478  07/103500 PLYM,-120.0,,joint,chase,checking
+2023-07-10,Payment to Chase card ending in 6611 07/10,-101.83,,joint,chase,checking
+2023-07-10,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-94.19,,joint,chase,checking
+2023-07-10,Payment to Chase card ending in 6562 07/10,-63.0,,joint,chase,checking
+2023-07-10,OM MARKET ANN ARBOR MI                       07/08,-18.02,,joint,chase,checking
+2023-07-10,BP#9260936COLON ANN ARBOR MI                 07/10,-17.49,,joint,chase,checking
+2023-07-10,KROGER #6 2641 PLYMOUT ANN ARBOR MI          07/09,-16.97,,joint,chase,checking
+2023-07-10,SQ *CURRY ON Ann Arbor MI                    07/08,-7.42,,joint,chase,checking
+2023-07-10,BLFD Main        Single                     PPD ID: 1261656249,293.33,,joint,chase,checking
+2023-07-10,BLFD Main        Single                     PPD ID: 1261656249,293.34,,nowrin,chase,checking
+2023-07-11,IHOP #3110 YPSILANTI MI                      07/11,-29.1,,joint,chase,checking
+2023-07-11,SQ *CURRY ON ANN ARBOR MI0002305843017972575748,-19.08,Restaurants,sachin,discover,credit
+2023-07-11,DD DOORDASH EVERGREEN,-17.8,Food & Drink,joint,chase,credit
+2023-07-11,0100 FOREVER 21,-15.9,Shopping,joint,chase,credit
+2023-07-11,KROGER #605 ANN ARBOR MI,-6.47,Supermarkets,sachin,discover,credit
+2023-07-12,HOPCAT DETROIT,-14.84,Food & Drink,joint,chase,credit
+2023-07-12,BURGER KING #232   Q07 ANN ARBOR MI          07/10,-12.27,,joint,chase,checking
+2023-07-13,ATM WITHDRAWAL                       001008  07/133500 PLYM,-400.0,,nowrin,chase,checking
+2023-07-13,CHICK FIL A DTW,-19.79,Food & Drink,joint,chase,credit
+2023-07-13,DD DOORDASH PANDAEXPR,-13.63,Food & Drink,joint,chase,credit
+2023-07-14,CABO WABO LAS VEGAS,-102.57,Food & Drink,joint,chase,credit
+2023-07-14,TST* Cafe Americano - Cae,-43.35,Food & Drink,joint,chase,credit
+2023-07-14,MICHIGAN FLYER  L.L.C.,-30.0,Travel,joint,chase,credit
+2023-07-14,BELLAGIO - SHOWROOM BAR,-23.44,Food & Drink,joint,chase,credit
+2023-07-14,RESTAURANT PHOTO,-20.0,Shopping,joint,chase,credit
+2023-07-14,MAGNET MAXIMUS FORUM S,-14.64,Shopping,joint,chase,credit
+2023-07-14,WAL-MART #1560,-12.94,Groceries,joint,chase,credit
+2023-07-14,UBER   TRIP,-9.9,Travel,joint,chase,credit
+2023-07-14,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,447.96,,sachin,chase,checking
+2023-07-14,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,800.0,,joint,chase,checking
+2023-07-15,LOTUS OF SIAM,-99.53,Food & Drink,joint,chase,credit
+2023-07-15,STRATOSPHERE TICKETING,-96.0,Entertainment,joint,chase,credit
+2023-07-15,DD DOORDASH MOUNTEVER,-66.79,Food & Drink,joint,chase,credit
+2023-07-15,FAT TUESDAY ROYALE,-22.0,Food & Drink,joint,chase,credit
+2023-07-15,UBER   TRIP,-19.99,Travel,joint,chase,credit
+2023-07-15,UBER   TRIP,-14.95,Travel,joint,chase,credit
+2023-07-16,DD DOORDASH MARIGOLDF,-48.89,Food & Drink,joint,chase,credit
+2023-07-16,DD DOORDASH ALMADINA,-23.9,Food & Drink,joint,chase,credit
+2023-07-16,ADULT SUPERSTORE LAS VEGAS NV,-23.79,Services,sachin,discover,credit
+2023-07-16,CHEVRON 0209203 HENDERSON NV00209203 0333222 I,-20.41,Gasoline,sachin,discover,credit
+2023-07-16,STARBUCKS STORE 49548,-9.97,Food & Drink,joint,chase,credit
+2023-07-16,SEASONS MARKET LLC HENDERSON NV,-2.29,Supermarkets,sachin,discover,credit
+2023-07-17,LYFT   *1 RIDE 07-15,-19.85,Travel,joint,chase,credit
+2023-07-17,SQ *CURRY ON ANN ARBOR MI0002305843018012377780,-19.08,Restaurants,sachin,discover,credit
+2023-07-17,BLFD Main        Single                     PPD ID: 1261656249,296.88,,joint,chase,checking
+2023-07-17,BLFD Main        Single                     PPD ID: 1261656249,296.89,,nowrin,chase,checking
+2023-07-18,DD DOORDASH TASTEOFIN,-27.72,Food & Drink,joint,chase,credit
+2023-07-18,DOORDASH DASHPASS,-4.99,Food & Drink,joint,chase,credit
+2023-07-18,MARKET@WORK 2067379149 RENTON WA,-1.69,Restaurants,sachin,discover,credit
+2023-07-19,Zelle payment to KSHITIZ 17925823811,-154.8,,joint,chase,checking
+2023-07-19,SPEEDWAY 02203 5 MILE AND,-30.23,Gas,joint,chase,credit
+2023-07-19,PATEL BROTHERS OF ANN AR ANN ARBOR MI,-26.08,Supermarkets,sachin,discover,credit
+2023-07-19,KROGER 605,-14.13,Groceries,joint,chase,credit
+2023-07-19,MARKET@WORK 2067379149 RENTON WA,-11.28,Restaurants,sachin,discover,credit
+2023-07-19,MARKET@WORK 2067379149 RENTON WA,-7.29,Restaurants,sachin,discover,credit
+2023-07-19,Zelle payment from SAYONI DUTTA ROY 17925851118,231.51,,sachin,chase,checking
+2023-07-20,T-MOBILE         PCS SVC    8669860         WEB ID: 0000450304,-142.44,,nowrin,chase,checking
+2023-07-20,Amazon Prime*BA82B7953,-7.94,Bills & Utilities,joint,chase,credit
+2023-07-20,Hulu 877-8244858 CA,-1.99,Bills & Utilities,joint,chase,credit
+2023-07-21,VFS Services USA Inc.,-154.2,Bills & Utilities,joint,chase,credit
+2023-07-21,USPS PO 25028201 3000 ANN ARBOR MI   560294  07/21,-50.6,,joint,chase,checking
+2023-07-21,KROGER 605,-8.54,Groceries,joint,chase,credit
+2023-07-21,ATM CASH DEPOSIT 07/21 3500 PLYMOUTH RD ANN ARBOR MI,39.0,,joint,chase,checking
+2023-07-21,ATM CASH DEPOSIT 07/21 3500 PLYMOUTH RD ANN ARBOR MI,500.0,,joint,chase,checking
+2023-07-22,PATEL BROTHERS OF ANN ARB,-34.2,Groceries,joint,chase,credit
+2023-07-22,SQ *FAMOUS CHICKEN CEN FARMINGTON HIMI0002305843018043757061,-22.65,Merchandise,sachin,discover,credit
+2023-07-23,MARKET@WORK 2067379149 RENTON WA,-2.49,Restaurants,sachin,discover,credit
+2023-07-23,Payment Thank You - Web,1001.87,,joint,chase,credit
+2023-07-24,Payment to Chase card ending in 6611 07/24,-1001.87,,joint,chase,checking
+2023-07-24,GERMAIN HONDA OF ANN ARB ANN ARBOR MI,-75.34,Automotive,sachin,discover,credit
+2023-07-24,LEETCODE.COM,-35.0,Shopping,nowrin,chase,credit
+2023-07-24,MARKET@WORK 2067379149 RENTON WA,-7.79,Restaurants,sachin,discover,credit
+2023-07-24,Cash Redemption,74.29,,joint,chase,checking
+2023-07-24,BLFD Main        Single                     PPD ID: 1261656249,287.6,,nowrin,chase,checking
+2023-07-24,BLFD Main        Single                     PPD ID: 1261656249,287.6,,joint,chase,checking
+2023-07-25,LinkedIn Pre 9266405774,-39.99,Bills & Utilities,nowrin,chase,credit
+2023-07-25,CNK*CINEMARK.COM 1097,-26.7,Entertainment,joint,chase,credit
+2023-07-25,DD DOORDASH SHAKESHAC,-17.78,Food & Drink,nowrin,chase,credit
+2023-07-25,DD DOORDASH NAMASTEFL,-16.68,Food & Drink,nowrin,chase,credit
+2023-07-25,TROPICAL NAILS AND SPA,-15.0,Personal,joint,chase,credit
+2023-07-25,MARKET@WORK 2067379149 RENTON WA,-11.28,Restaurants,sachin,discover,credit
+2023-07-25,MARKET@WORK 2067379149 RENTON WA,-8.99,Restaurants,sachin,discover,credit
+2023-07-25,STARBUCKS STORE 15010,-8.69,Food & Drink,joint,chase,credit
+2023-07-25,"MICHIGAN FLYER, L.L.C 989-723-9600 MI        07/25",-6.0,,nowrin,chase,checking
+2023-07-25,"MICHIGAN FLYER, L.L.C 989-723-9600 MI        07/25",-6.0,,nowrin,chase,checking
+2023-07-25,GOOGLE *Google Storage,-1.99,Bills & Utilities,joint,chase,credit
+2023-07-26,TASTE OF INDIA,-27.33,Food & Drink,joint,chase,credit
+2023-07-26,MARKET@WORK 2067379149 RENTON WA,-7.49,Restaurants,sachin,discover,credit
+2023-07-27,KROGER 605,-23.35,Groceries,joint,chase,credit
+2023-07-27,DD DOORDASH HKCHINAON,-19.47,Food & Drink,joint,chase,credit
+2023-07-27,TST* FRITA BATIDOS - DETR,-12.19,Food & Drink,joint,chase,credit
+2023-07-27,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-07-27,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-07-27,MARKET@WORK 2067379149 RENTON WA,-1.69,Restaurants,sachin,discover,credit
+2023-07-28,Payment to Chase card ending in 7345 07/28,-74.45,,nowrin,chase,checking
+2023-07-28,Payment to Chase card ending in 6562 07/28,-35.0,,joint,chase,checking
+2023-07-28,Payment Thank You-Mobile,35.0,,nowrin,chase,credit
+2023-07-28,Payment Thank You-Mobile,74.45,,nowrin,chase,credit
+2023-07-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,447.96,,sachin,chase,checking
+2023-07-28,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,800.0,,joint,chase,checking
+2023-07-29,DD DOORDASH CHOPSTICK,-17.46,Food & Drink,joint,chase,credit
+2023-07-29,MARKET@WORK 2067379149 RENTON WA,-12.98,Restaurants,sachin,discover,credit
+2023-07-29,MARKET@WORK 2067379149 RENTON WA,-2.99,Restaurants,sachin,discover,credit
+2023-07-30,HOPCAT ANN ARBOR,-31.52,Food & Drink,joint,chase,credit
+2023-07-30,PATEL BROTHERS OF ANN ARB,-23.52,Groceries,joint,chase,credit
+2023-07-30,DD DOORDASH NAMASTEFL,-17.8,Food & Drink,nowrin,chase,credit
+2023-07-30,DD DOORDASH TASTEOFIN,-14.42,Food & Drink,joint,chase,credit
+2023-07-30,MARKET@WORK 2067379149 RENTON WA,-1.69,Restaurants,sachin,discover,credit
+2023-07-31,Univ of Michigan UMich ePay 430297160       WEB ID: 1364199567,-1577.69,,joint,chase,checking
+2023-07-31,Univ of Michigan UMich ePay 430297162       WEB ID: 1364199567,-190.69,,joint,chase,checking
+2023-07-31,SPEEDWAY 08708 ANN ARBOR ANN ARBOR MI,-29.48,Gasoline,sachin,discover,credit
+2023-07-31,SQ *SHRIMP FLAVOURS,-27.52,Food & Drink,joint,chase,credit
+2023-07-31,TST* Jojos Shake Bar - D,-24.8,Food & Drink,joint,chase,credit
+2023-07-31,DD DOORDASH SHRIMPFLA,-18.9,Food & Drink,joint,chase,credit
+2023-07-31,MARKET@WORK 2067379149 RENTON WA,-8.49,Restaurants,sachin,discover,credit
+2023-07-31,MARKET@WORK 2067379149 RENTON WA,-2.29,Restaurants,sachin,discover,credit
+2023-07-31,BLFD Main        Single                     PPD ID: 1261656249,295.43,,joint,chase,checking
+2023-07-31,BLFD Main        Single                     PPD ID: 1261656249,295.44,,nowrin,chase,checking
+2023-08-01,Autosave SavePerMonth 11419415232,-25.0,,sachin,chase,checking
+2023-08-01,Autosave SavePerMonth 11419571386,-25.0,,nowrin,chase,checking
+2023-08-01,DD DOORDASH FARMERFRA,-12.26,Food & Drink,nowrin,chase,credit
+2023-08-01,STARBUCKS STORE 02342,-9.12,Food & Drink,joint,chase,credit
+2023-08-01,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-01,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-01,Autosave SavePerMonth 11419415232,25.0,,sachin,chase,savings
+2023-08-01,Autosave SavePerMonth 11419571386,25.0,,nowrin,chase,savings
+2023-08-02,Payment to Chase card ending in 6611 08/02,-334.8,,sachin,chase,checking
+2023-08-02,Online Transfer to CHK ...7386 transaction#: 18060049579 08/02,-200.0,,sachin,chase,checking
+2023-08-02,Payment to Chase card ending in 7345 08/02,-30.06,,nowrin,chase,checking
+2023-08-02,KROGER #605 ANN ARBOR MI,-26.38,Supermarkets,sachin,discover,credit
+2023-08-02,TST* No Thai- Plymouth,-12.72,Food & Drink,joint,chase,credit
+2023-08-02,Payment Thank You-Mobile,30.06,,nowrin,chase,credit
+2023-08-02,Online Transfer from CHK ...5231 transaction#: 18060049579,200.0,,joint,chase,checking
+2023-08-02,INTERNET PAYMENT - THANK YOU,328.61,Payments and Credits,sachin,discover,credit
+2023-08-02,Payment Thank You-Mobile,334.8,,joint,chase,credit
+2023-08-03,Online Transfer to  SAV ...2267 transaction#: 17787581676,-250.0,,nowrin,chase,checking
+2023-08-03,Ann Arbor MI Citations,-77.95,Bills & Utilities,joint,chase,credit
+2023-08-03,KROGER #605 ANN ARBOR MI,-24.45,Supermarkets,sachin,discover,credit
+2023-08-03,MARKET@WORK 2067379149 RENTON WA,-7.79,Restaurants,sachin,discover,credit
+2023-08-03,Online Transfer from  CHK ...7138 transaction#: 17787581676,250.0,,nowrin,chase,savings
+2023-08-04,DISCOVER         E-PAYMENT  6575            WEB ID: 2510020270,-328.61,,joint,chase,checking
+2023-08-04,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-04,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-04,MARKET@WORK 2067379149 RENTON WA,-3.99,Restaurants,sachin,discover,credit
+2023-08-04,MUJO CAFE,-3.5,Food & Drink,joint,chase,credit
+2023-08-05,SHELL OIL 52136600039,-27.44,Gas,joint,chase,credit
+2023-08-05,RYBA`S BIKE RENTAL,-24.96,Entertainment,joint,chase,credit
+2023-08-05,EXXONMOBIL BRIGHTON MI,-23.96,Gasoline,sachin,discover,credit
+2023-08-05,CANNONBALL OASIS,-9.5,Food & Drink,joint,chase,credit
+2023-08-05,LOON FEATHER DOWNTOWN,-6.35,Shopping,joint,chase,credit
+2023-08-05,MACKINAW MALL GENERAL ST,-5.29,Groceries,joint,chase,credit
+2023-08-05,MACKINAC BRIDGE AUTHORITY,-4.0,Travel,joint,chase,credit
+2023-08-05,DOUD'S MARKET,-1.99,Groceries,joint,chase,credit
+2023-08-05,SHELL52136600039 GAYLORD MI,-1.69,Gasoline,sachin,discover,credit
+2023-08-06,MACKINAC ISLAND FERRY,-64.0,Travel,joint,chase,credit
+2023-08-06,HORNS GASLIGHT BAR,-45.0,Food & Drink,joint,chase,credit
+2023-08-06,TST* MARY'S STEINHAUS,-39.11,Food & Drink,joint,chase,credit
+2023-08-06,BP#2643724ROSCO MINI MAR,-23.9,Gas,joint,chase,credit
+2023-08-06,MACKINAC BRIDGE AUTHORITY,-4.0,Travel,joint,chase,credit
+2023-08-06,EXXON SAGANING MART,-2.22,Gas,joint,chase,credit
+2023-08-07,EXPEDIA 72626775054618,-129.87,Travel,nowrin,chase,credit
+2023-08-07,DD DOORDASH SHRIMPFLA,-16.68,Food & Drink,nowrin,chase,credit
+2023-08-07,MARKET@WORK 2067379149,-8.99,Food & Drink,joint,chase,credit
+2023-08-07,UBER   TRIP,-6.0,Travel,joint,chase,credit
+2023-08-07,BLFD Main        Single                     PPD ID: 1261656249,297.2,,nowrin,chase,checking
+2023-08-07,BLFD Main        Single                     PPD ID: 1261656249,297.2,,joint,chase,checking
+2023-08-08,WWW.EDUCATIVE.IO,-59.0,Education,nowrin,chase,credit
+2023-08-08,DD DOORDASH SHALIMARR,-15.31,Food & Drink,nowrin,chase,credit
+2023-08-09,SPEEDWAY 08708 ANN ARBOR,-31.5,Gas,joint,chase,credit
+2023-08-09,PY *CINNAHOLIC,-10.6,Food & Drink,joint,chase,credit
+2023-08-09,MARKET@WORK 2067379149,-7.29,Food & Drink,joint,chase,credit
+2023-08-10,BURGER KING #232   Q07,-16.73,Food & Drink,joint,chase,credit
+2023-08-10,SQ *CURRY ON,-15.9,Food & Drink,joint,chase,credit
+2023-08-10,DD DOORDASH CHARMINAR,-15.57,Food & Drink,nowrin,chase,credit
+2023-08-10,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-10,MICHIGAN FLYER  L.L.C.,-6.0,Travel,joint,chase,credit
+2023-08-11,KROGER 605,-32.18,Groceries,joint,chase,credit
+2023-08-11,PATEL BROTHERS OF ANN ARB,-11.58,Groceries,joint,chase,credit
+2023-08-11,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,447.96,,sachin,chase,checking
+2023-08-11,UNIV OF MICHIGAN DIR DEP                    PPD ID: 3386006309,800.0,,joint,chase,checking
+2023-08-12,CARDAMOMRESTAURANT,-35.0,Food & Drink,joint,chase,credit
+2023-08-12,NORTHSIDE SHELL,-15.9,Automotive,joint,chase,credit
+2023-08-13,CHATGPT SUBSCRIPTION,-20.0,Shopping,joint,chase,credit
+2023-08-13,BURGER KING #232   Q07,-17.78,Food & Drink,joint,chase,credit
+2023-08-13,SNACK SODA VENDING,-2.1,Food & Drink,joint,chase,credit
+2023-08-14,BLFD Main        Single                     PPD ID: 1261656249,287.43,,nowrin,chase,checking
+2023-08-14,BLFD Main        Single                     PPD ID: 1261656249,287.43,,joint,chase,checking
+2023-08-15,INTEREST PAYMENT,0.01,,nowrin,chase,savings
+2023-08-15,Zelle payment from ANIRUDH LAKSHMI NARASIMHAN 18175803968,3.49,,sachin,chase,checking
+2023-08-15,Zelle payment from ANIRUDH LAKSHMI NARASIMHAN 18175829951,8.98,,sachin,chase,checking
+2023-08-16,CONTINENTAL CANTEEN,-1.15,Food & Drink,joint,chase,credit
+2023-08-16,CONTINENTAL CANTEEN,-1.15,Food & Drink,joint,chase,credit
+2023-08-16,CONTINENTAL CANTEEN,-1.15,Food & Drink,joint,chase,credit
+2023-08-17,AKSHAYA  PATRA,-31.12,Food & Drink,joint,chase,credit
+2023-08-17,PANDA EXPRESS #1124,-20.56,Food & Drink,joint,chase,credit
+2023-08-17,DD DOORDASH NAMASTEFL,-18.68,Food & Drink,nowrin,chase,credit
+2023-08-17,CONTINENTAL CANTEEN,-1.15,Food & Drink,joint,chase,credit
+2023-08-17,CONTINENTAL CANTEEN,-1.05,Food & Drink,joint,chase,credit
+2023-08-17,CONTINENTAL CANTEEN,-1.05,Food & Drink,joint,chase,credit
+2023-08-18,DOORDASH DASHPASS,-4.99,Food & Drink,joint,chase,credit
+2023-08-20,DD DOORDASH NOODLESCO,-16.28,Food & Drink,joint,chase,credit
+2023-08-21,ORIG CO NAME:T-MOBILE         CO ENTRY DESCR:PCS SVC    SEC:WEB IND ID:7057016         ORIG ID:0000450304,-144.01,,nowrin,chase,checking
+2023-08-21,ZELLE PAYMENT TO PAVAN  UMICH 18220711948,-65.0,,joint,chase,checking
+2023-08-21,ORIG CO NAME:BLFD Main        CO ENTRY DESCR:Single     SEC:PPD                        ORIG ID:1261656249,255.61,,joint,chase,checking
+2023-08-21,ORIG CO NAME:BLFD Main        CO ENTRY DESCR:Single     SEC:PPD                        ORIG ID:1261656249,255.62,,nowrin,chase,checking
+2023-08-22,PAYMENT TO CHASE CARD ENDING IN 6562 08/22,-188.87,,joint,chase,checking
+2023-08-22,PAYMENT TO CHASE CARD ENDING IN 7345 08/22,-66.24,,nowrin,chase,checking
