@@ -4,6 +4,6 @@
 # Ignore Python's __pycache__ directories
 __pycache__/
 
-india/
+output/
 
 data/

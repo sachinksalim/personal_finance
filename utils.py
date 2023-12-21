@@ -2,6 +2,13 @@ import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
+def convert_currency_to_num(data: pd.Series):
+    return data.str.replace("$", "").str.replace(",", "").fillna(0).astype(float)
+
+def filter_data_by_date(data, year, month):
+    mask = (data['Date'].dt.month == month) & (data['Date'].dt.year == year)
+    return data[mask]
+
 def visualize_summary(df):
     # Get unique values in column X and create a colormap
     unique_x_values = df['BankName'].unique()
@@ -34,13 +41,6 @@ def visualize_summary(df):
     plt.gca().invert_yaxis()
 
     plt.show()
-
-def convert_currency_to_num(data: pd.Series):
-    return data.str.replace("$", "").str.replace(",", "").fillna(0).astype(float)
-
-def filter_data_by_date(data, year, month):
-    mask = (data['Date'].dt.month == month) & (data['Date'].dt.year == year)
-    return data[mask]
 
 def summary_statistics(df_full, AccHolder, BankName, AccType):
     def summary(df):
