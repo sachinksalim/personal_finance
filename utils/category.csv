@@ -2,9 +2,11 @@ Keyword,Category,Subcategory
 patel brothers,groceries,patel brothers
 kroger,groceries,kroger
 instacart,groceries,online
-market@work,groceries,snacks
+market@work,restaurant,ncrc-pantry
 univ of michigan umich epay,house,rent
+ghan and cooper,house,rent
 tmobile,mobile,tmobile
+verizon,mobile,verizon
 doordash,restaurant,online
 mcdonald,restaurant,mcdonald
 panda express,restaurant,panda express
@@ -24,6 +26,7 @@ michigan flyer,travel,bus
 uber,travel,cab
 lyft,travel,cab
 spirit,travel,flight
+frontier,travel,flight
 speedway,travel,gas
 enterprise,travel,rental
 carpenters,travel,rental
@@ -33,17 +36,23 @@ discover e-payment,transfer,credit bill
 online transfer from,transfer,online transfer
 automatic payment - thank,transfer,credit bill
 chase credit crd autopay,transfer,credit bill
+payment thank you - web,transfer,credit bill
+sofi bank,transfer,savings
 om market,groceries,om market
 walmart,groceries,walmart
+wal-mart,groceries,walmart
 google storage,subscription,google
 blfd main,salary,littlecaesar
+wal-mart assocs. payroll,salary,walmart
 argo canoe livery,entertainment,kayak
 airbnb,travel,stay
-univ of michigan direct deposit,salary,michigan
+univ of michigan dir dep,salary,michigan
 cash redemption,transfer,reward
 macys,shopping,clothes
-frontier,travel,flight
 jcpenney,shopping,clothes
+hm.com,shopping,clothes
+zara.com,shopping,clothes
+nike.com,shopping,clothes
 colonial bp,travel,gas
 ihop,restaurant,ihop
 taste of india,restaurant,taste of india
@@ -53,3 +62,39 @@ domino's,restaurant,domino's
 qahwah,restaurant,qahwah
 picasso ncrc,restaurant,picasso ncrc
 7-eleven,shopping,groceries
+moneyline,investment,fidelity
+lulus,shopping,clothes
+u-of-mich-ncamp-book,shopping,clothes
+shoreline sightseeing,entertainment,chicago
+flyover chicago,entertainment,chicago
+bridal cave,entertainment,missouri
+lakeoftheozarks,entertainment,missouri
+united,travel,flight
+american,travel,flight
+expedia,travel,stay
+epic denta,health,dental
+carroll ecc ar,utilities,electricity
+metro market,groceries,metro market
+tropical nails and spa,selfcare,nails
+thalaivas,restaurant,thalaivas
+wal-mart stores trade pymt,salary,walmart
+rao gari vindu,restaurant,rao gari vindu
+bushi bushi,restaurant,bushi bushi
+saravanaa bhavan,restaurant,saravanaa bhavan
+sri sai indian cuisine,restaurant,sri sai indian cuisine
+viras kerala kitchen,restaurant,viras kerala kitchen
+dtw pf changs,restaurant,dtw pf changs
+cups n chai,restaurant,cups n chai
+kirpa indian cuisine,restaurant,kirpa indian cuisine
+panera bread,restaurant,panera bread
+einstein bros,restaurant,einstein bros
+popeyes,restaurant,popeyes
+dj's bakery,restaurant,dj's bakery
+doordash dashpass,subscription,doordash
+india mart,groceries,india mart
+desi bazaar,groceries,desi bazaar
+a chau market,groceries,a chau market
+community butcher,groceries,community butcher
+hanuma grocers,groceries,hanuma grocers
+famous chicken center,groceries,famous chicken center
+india plaza,groceries,india plaza
