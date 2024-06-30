@@ -22,8 +22,6 @@ epic denta,health,dental
 ghan and cooper,house,rent
 univ of michigan umich epay,house,rent
 moneyline,investment,fidelity
-tmobile,mobile,tmobile
-verizon,mobile,verizon
 burger 1,restaurant,burger 1
 bushi bushi,restaurant,bushi bushi
 cups n chai,restaurant,cups n chai
@@ -31,6 +29,7 @@ dj's bakery,restaurant,dj's bakery
 domino's,restaurant,domino's
 dtw pf changs,restaurant,dtw pf changs
 einstein bros,restaurant,einstein bros
+FRONTIER AIRLINES ONBOARD,restaurant,frontier
 ihop,restaurant,ihop
 kirpa indian cuisine,restaurant,kirpa indian cuisine
 mcdonald,restaurant,mcdonald
@@ -53,21 +52,36 @@ univ of michigan dir dep,salary,michigan
 wal-mart assocs. payroll,salary,walmart
 wal-mart stores trade pymt,salary,walmart
 tropical nails and spa,selfcare,nails
+ROUGE SALON,selfcare,spa
+GREAT CLIPS,selfcare,haircut
 hm.com,shopping,clothes
 jcpenney,shopping,clothes
 lulus,shopping,clothes
 macys,shopping,clothes
 nike.com,shopping,clothes
 u-of-mich-ncamp-book,shopping,clothes
+gap us,shopping,clothes
+Francescas,shopping,clothes
+athleta,shopping,clothes
+soma intimates,shopping,clothes
 zara.com,shopping,clothes
 7-eleven,shopping,groceries
 amazon.com,shopping,online
+amazon mktpl,shopping,online
 amzn,shopping,online
-amazon prime,subscription,amazon prime
-doordash dashpass,subscription,doordash
-google storage,subscription,google
-hulu,subscription,hulu
-linkedin,subscription,linkedin
+target,shopping,target
+amazon prime,subscriptions,amazon prime
+doordash dashpass,subscriptions,doordash
+doordashdashpass,subscriptions,doordash
+google storage,subscriptions,google
+hulu,subscriptions,hulu
+linkedin,subscriptions,linkedin
+lucid,subscriptions,lucid
+ANNUAL MEMBERSHIP FEE,subscriptions,sapphire
+nord,subscriptions,nord
+peacock,subscriptions,peacock
+netflix,subscriptions,netflix
+lending,social,lending
 atm withdrawal,transfer,atm
 automatic payment - thank,transfer,credit bill
 chase credit crd autopay,transfer,credit bill
@@ -80,7 +94,7 @@ online transfer from,transfer,online transfer
 online transfer to,transfer,online transfer
 cash redemption,transfer,reward
 autosave savepermonth,transfer,savings
-sofi bank,transfer,savings
+sofi bank,transfer,online transfer
 zel,transfer,zelle
 michigan flyer,travel,bus
 lyft,travel,cab
@@ -89,6 +103,7 @@ american,travel,flight
 frontier,travel,flight
 spirit,travel,flight
 united,travel,flight
+WAL-MART gasoline,travel,gas
 colonial bp,travel,gas
 speedway,travel,gas
 carpenters,travel,rental
@@ -97,4 +112,9 @@ zipcar,travel,rental
 airbnb,travel,stay
 expedia,travel,stay
 amtrak,travel,train
-carroll ecc ar,utilities,electricity
+carroll,utilities,electricity
+att*bill,utilities,wifi
+PROG DIRECT,utilities,car insurance
+tmobile,utilities,tmobile
+verizon,utilities,verizon
+INT'L EDUCATION,education,ierf

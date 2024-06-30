@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import yaml
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime, timedelta
@@ -7,15 +8,24 @@ from datetime import datetime, timedelta
 def convert_currency_to_num(data: pd.Series):
     return data.str.replace("$", "").str.replace(",", "").fillna(0).astype(float)
 
+def load_filter():
+    with open('utils/filter.yaml', 'r') as file:
+        return yaml.safe_load(file)
+
 def find_category_from_autocat(auto_cat):
     res = {'Category': 'others', 'Subcategory': 'others'}
     if not pd.isna(auto_cat):
         auto_cat = auto_cat.lower()
         if auto_cat == 'food & drink':
-            auto_cat = 'restaurant'
-        elif auto_cat == 'gasoline':
-            auto_cat = 'gas'
-        res['Category'] = auto_cat
+            res['Category'] = 'restaurant'
+        elif auto_cat in ['gas', 'gasoline']:
+            res = {'Category': 'travel', 'Subcategory': 'gas'}
+        elif auto_cat == 'bills & utilities':
+            res['Category'] = 'utilities'
+        elif auto_cat == "gifts & donations":
+            res = {'Category': 'social', 'Subcategory': 'gifts'}
+        else:
+            res['Category'] = auto_cat
     # 'Entertainment', 'Groceries', 'Food & Drink', 'Travel',
     #    'Travel/ Entertainment', 'Awards and Rebate Credits',
     #    'Restaurants', 'Gasoline', 'Services', 'Education', 'Merchandise',
@@ -42,6 +52,18 @@ def find_category(row, category_info):
     if res['Category'] == 'others':
         res = find_category_from_autocat(row['AutoCategory'])
     return res
+
+def get_title(filter_info, notes=False):
+    filename = "_"
+    if filter_info['date_period']['type'] == 'month':
+        YEAR = filter_info['date_period']['year']
+        MONTH = filter_info['date_period']['month']
+        filename = f"{YEAR}_{MONTH}"
+    elif filter_info['date_period']['type'] == 'all':
+        filename = f"full_data"
+    else:
+        pass
+    return f"{filename}_notes" if notes else filename
 
 def _filter_data_by_date_period(data, date_period):
     if date_period['type'] == 'all':
@@ -141,6 +163,23 @@ def visualize_salary(data):
     plt.tight_layout()
     plt.show()
 
+def visualize_gas(data):
+    interested_data = data.query("Category == 'gas'")
+    interested_data['Amount'] = -interested_data['Amount']
+    interested_data['Date'] = pd.to_datetime(interested_data['Date'])
+    interested_data['YearMonth'] = interested_data['Date'].dt.to_period('M')
+    monthly_sum = interested_data.groupby('YearMonth')['Amount'].sum().reset_index()
+    monthly_sum['YearMonth'] = monthly_sum['YearMonth'].dt.to_timestamp()
+    plt.figure(figsize=(10, 6))
+    plt.plot(monthly_sum['YearMonth'], monthly_sum['Amount'], marker='o', linestyle='-')
+    plt.title('Monthly Amounts')
+    plt.xlabel('Month')
+    plt.ylabel('Total Amount')
+    plt.grid(True)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
 def summary_statistics(df_full, AccHolder, BankName, AccType):
     def summary(df):
         no_of_entries = len(df)
@@ -181,9 +220,10 @@ def check_string(text, pattern):
     else:
         return False
     
-def plot_pie(df):
+def plot_pie(df, title):
     colors = sns.color_palette('pastel', n_colors = len(df))
 
+    plt.title(title)
     plt.pie(np.abs(df.values.squeeze()),
             labels = df.index + ": $" + np.abs(df.values.squeeze()).astype(int).astype(str),
             colors = colors,
@@ -202,11 +242,15 @@ def write_to_excel(data, filepath):
 
         workbook  = writer.book
         worksheet = writer.sheets['Sheet_1']
+        date_format = workbook.add_format({'num_format': 'yyyy-mm-dd'})
         wrap_format = workbook.add_format({'text_wrap': True})
-        worksheet.set_column('A:A', 12)
+        worksheet.set_column('A:A', 12, date_format)
         worksheet.set_column('B:B', 30, wrap_format)
         worksheet.set_column('D:D', 12, wrap_format)
         worksheet.set_column('H:H', 12)
+
+        # Enable autofilter in the first row
+        worksheet.autofilter(0, 0, 0, data.shape[1] - 1)
 
 def visualize_summary(df):
     # Get unique values in column X and create a colormap
