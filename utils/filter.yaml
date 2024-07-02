@@ -2,4 +2,4 @@ acc_holder: any  # ['sachin', 'nowrin', 'joint', 'any']
 date_period:
   type: month  # ['all', 'from-to', 'month']
   year: 2024
-  month: 6
+  month: 5

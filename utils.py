@@ -47,11 +47,39 @@ def find_category_from_desc(desc, category_info):
             max_len = len(keyword)    
     return res
 
+def find_category_for_zelle(desc):
+    desc = desc.lower()
+    desc = desc.split()[3]
+    res = pd.Series({'Category': 'transfer', 'Subcategory': f'{desc}-zelle'})
+    return res
+
 def find_category(row, category_info):
     res = find_category_from_desc(row['Description'], category_info)
     if res['Category'] == 'others':
         res = find_category_from_autocat(row['AutoCategory'])
+    if res['Subcategory'] == 'zelle':
+        res = find_category_for_zelle(row['Description'])
     return res
+
+def tabulate(df, cats, title="", expense=True):
+    amounts = []
+    cat_titles = []
+    for cat in cats:
+        if len(cat) == 1:
+            amount = df.query(f"Category == '{cat[0]}'")['Amount'].sum()
+        else:
+            amount = df.query(f"Category == '{cat[0]}' and Subcategory == '{cat[1]}'")['Amount'].sum()
+        if expense:
+            amount *= -1
+        if amount != 0:
+            amounts.append(amount)
+            cat_titles.append(cat[-1].title())
+
+    res_df = pd.DataFrame({
+        'Category': cat_titles,
+        'Actual': amounts
+    })
+    return res_df
 
 def get_title(filter_info, notes=False):
     filename = "_"
@@ -88,6 +116,29 @@ def filter_data_by_info(data, filter_info):
     data = _filter_data_by_holder(data, filter_info['acc_holder'])
     data = _filter_data_by_date_period(data, filter_info['date_period'])
     return data
+
+def write_to_excel(data, filepath):
+    data['Date'] = data['Date'].dt.date
+    with pd.ExcelWriter(filepath, engine='xlsxwriter') as writer:
+
+        data.to_excel(writer, 
+                    index=False,
+                    freeze_panes=(1,0),
+                    sheet_name='Sheet_1',
+                    engine='xlsxwriter')
+
+        workbook  = writer.book
+        worksheet = writer.sheets['Sheet_1']
+        date_format = workbook.add_format({'num_format': 'yyyy-mm-dd'})
+        wrap_format = workbook.add_format({'text_wrap': True})
+        worksheet.set_column('A:A', 12, date_format)
+        worksheet.set_column('B:B', 30, wrap_format)
+        worksheet.set_column('D:D', 12, wrap_format)
+        worksheet.set_column('H:H', 12)
+
+        # Enable autofilter in the first row
+        worksheet.autofilter(0, 0, 0, data.shape[1] - 1)
+    data['Date'] = pd.to_datetime(data['Date'])
 
 def visualize_summary(df):
     # Get unique values in column X and create a colormap
@@ -224,33 +275,11 @@ def plot_pie(df, title):
     colors = sns.color_palette('pastel', n_colors = len(df))
 
     plt.title(title)
-    plt.pie(np.abs(df.values.squeeze()),
-            labels = df.index + ": $" + np.abs(df.values.squeeze()).astype(int).astype(str),
+    plt.pie(np.abs(df.values),
+            labels = df.index + ": $" + np.abs(df.values).astype(int).astype(str),
             colors = colors,
             startangle = 90)
     plt.show()
-
-def write_to_excel(data, filepath):
-    data['Date'] = data['Date'].dt.date
-    with pd.ExcelWriter(filepath, engine='xlsxwriter') as writer:
-
-        data.to_excel(writer, 
-                    index=False,
-                    freeze_panes=(1,0),
-                    sheet_name='Sheet_1',
-                    engine='xlsxwriter')
-
-        workbook  = writer.book
-        worksheet = writer.sheets['Sheet_1']
-        date_format = workbook.add_format({'num_format': 'yyyy-mm-dd'})
-        wrap_format = workbook.add_format({'text_wrap': True})
-        worksheet.set_column('A:A', 12, date_format)
-        worksheet.set_column('B:B', 30, wrap_format)
-        worksheet.set_column('D:D', 12, wrap_format)
-        worksheet.set_column('H:H', 12)
-
-        # Enable autofilter in the first row
-        worksheet.autofilter(0, 0, 0, data.shape[1] - 1)
 
 def visualize_summary(df):
     # Get unique values in column X and create a colormap

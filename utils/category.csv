@@ -47,10 +47,11 @@ starbucks,restaurant,starbucks
 taste of india,restaurant,taste of india
 thalaivas,restaurant,thalaivas
 viras kerala kitchen,restaurant,viras kerala kitchen
-blfd main,salary,littlecaesar
-univ of michigan dir dep,salary,michigan
-wal-mart assocs. payroll,salary,walmart
-wal-mart stores trade pymt,salary,walmart
+blfd main,income,littlecaesar
+univ of michigan dir dep,income,michigan
+UNIV OF MICHIGAN,income,michigan
+wal-mart assocs.,income,walmart
+wal-mart stores trade pymt,income,walmart
 tropical nails and spa,selfcare,nails
 ROUGE SALON,selfcare,spa
 GREAT CLIPS,selfcare,haircut
@@ -93,9 +94,12 @@ payment to chase card,transfer,credit bill
 online transfer from,transfer,online transfer
 online transfer to,transfer,online transfer
 cash redemption,transfer,reward
-autosave savepermonth,transfer,savings
-sofi bank,transfer,online transfer
+autosave savepermonth,transfer,internal
+sofi bank,transfer,internal
 zel,transfer,zelle
+JPMORGAN CHASE BANK,transfer,internal
+From Savings,transfer,internal
+To Checking,transfer,internal
 michigan flyer,travel,bus
 lyft,travel,cab
 uber,travel,cab
@@ -118,3 +122,8 @@ PROG DIRECT,utilities,car insurance
 tmobile,utilities,tmobile
 verizon,utilities,verizon
 INT'L EDUCATION,education,ierf
+Interest earned,income,sofi
+Money Promo Bonus,income,sofi
+IRS TREAS,income,irs
+STATEOFMICHIGAN PMT,income,irs
+RELIABLE TOYOTA SERV,utilities,car emi
